@@ -1,0 +1,787 @@
+Establishment,Address,Suburb,Postcode,State,Establishment Type,latitude,longtitude
+Alexandra,33 Grant Street,Alexandra,3714,VIC,Police Station,-37.1880727,145.707362
+Altona North,72 Cooper Avenue,Altona North,3025,VIC,Police Station,-37.8357135,144.8448849
+Anglesea,55 Great Ocean Road,Anglesea,3230,VIC,Police Station,-38.4033986,144.1922281
+Apollo Bay,31 Nelson Street,Apollo Bay,3233,VIC,Police Station,-38.7596843,143.6705622
+Apsley,17 Splatt Street,Apsley,3319,VIC,Police Station,-36.9670606,141.0836185
+Ararat,1A Ligar Street,Ararat,3377,VIC,Police Station,-37.2842432,142.9267224
+Ashburton,1 Y Street,Ashburton,3147,VIC,Police Station,-37.862874,145.079709
+Avoca,148 High Street,Avoca,3467,VIC,Police Station,-37.0871701,143.4740956
+Avondale Heights,162 Military Road,Avondale Heights,3034,VIC,Police Station,-37.755729,144.85944
+Axedale,88 Mcivor Highway,Axedale,3551,VIC,Police Station,-36.7869928,144.5015678
+Bacchus Marsh,156 Main Street,Bacchus Marsh,3340,VIC,Police Station,-37.6752512,144.4397161
+Bairnsdale,45 Main Street,Bairnsdale,3875,VIC,Police Station,-37.8256893,147.6359893
+Ballan,174 Inglis Street,Ballan,3342,VIC,Police Station,-37.5999512,144.2208892
+Ballarat,20 Dana Street,Ballarat Central,3350,VIC,Police Station,-37.5642063,143.8596245
+Balmoral,33 Glendinning Street,Balmoral,3407,VIC,Police Station,-37.2488946,141.8430046
+Bannockburn,51 High Street,Bannockburn,3331,VIC,Police Station,-38.0499332,144.168415
+Beaufort,11 Livingstone Street,Beaufort,3373,VIC,Police Station,-37.4312766,143.3810932
+Beeac,2 Coulstone Street,Beeac,3251,VIC,Police Station,-38.1950094,143.6391085
+Beechworth,102 Ford Street,Beechworth,3747,VIC,Police Station,-36.3583719,146.6888702
+Belgrave,4 Ena Street,Belgrave,3160,VIC,Police Station,-37.9076222,145.3544974
+Bellarine,67 The Parade,Ocean Grove,3226,VIC,Police Station,-38.2667978,144.5219392
+Benalla,13 Bridge Street,Benalla,3672,VIC,Police Station,-36.5517175,145.9826526
+Bendigo,221 High Street,Golden Square,3550,VIC,Police Station,-36.7668329,144.2667882
+Bendoc,Lower Bendoc Road,Bendoc,3888,VIC,Police Station,-37.1377055,148.9501337
+Bethanga,1 Bethanga Bay Road,Bethanga,3691,VIC,Police Station,-36.1254792,147.0993276
+Beulah,21 Phillips Street,Beulah,3395,VIC,Police Station,-35.9429924,142.4192507
+Birchip,95 Cumming Avenue,Birchip,3483,VIC,Police Station,-35.9798472,142.9176823
+Birregurra,89 Main Street,Birregurra,3242,VIC,Police Station,-38.3362985,143.782711
+Boolarra,29 Tarwin Street,Boolarra,3870,VIC,Police Station,-38.3804426,146.2723207
+Boort,8 Station Street,Boort,3537,VIC,Police Station,-36.1157857,143.7232408
+Boronia,259 Dorset Road,Boronia,3155,VIC,Police Station,-37.8599345,145.2854877
+Boroondara,34 Harp Road,Kew,3101,VIC,Police Station,-37.7997109,145.0520295
+Box Hill,1 Kangerong Road,Box Hill,3128,VIC,Police Station,-37.8174767,145.1274248
+Branxholme,93 Monroe Street,Branxholme,3302,VIC,Police Station,-37.8577907,141.7988545
+Briagolong,21 Avon Street,Briagalong,3860,VIC,Police Station,-37.8434333,147.069628
+Bridgewater,18 Park Street,Bridgewater,3516,VIC,Police Station,-36.6017114,143.9400131
+Bright,7 Park Street,Bright,3741,VIC,Police Station,-37.912513,144.987507
+Broadford,156 High Street,Broadford,3658,VIC,Police Station,-37.2029259,145.0551327
+Broadmeadows,15 Dimboola Road,Broadmedows,3047,VIC,Police Station,-37.683223,144.916874
+Brunswick,630 Sydney Road,Brunswick,3056,VIC,Police Station,-37.762812,144.963068
+Bruthen,45 Main Street,Bruthen,3885,VIC,Police Station,-37.7075128,147.8311191
+Buchan,39 Main Road,Buchan,3885,VIC,Police Station,-37.4998715,148.1713102
+Buninyong,310 Scott Street,Buninyong,3357,VIC,Police Station,-37.6515573,143.8846456
+Bunyip,4 Pearson Street,Bunyip,3815,VIC,Police Station,-38.097515,145.717799
+Burwood,64 Burwood Highway,Burwood,3125,VIC,Police Station,-37.850883,145.098177
+Camberwell,317 Camberwell Road,Camberwell,3124,VIC,Police Station,-37.8333807,145.0591067
+Camperdown,49 Furgusson Street,Camperdown,3260,VIC,Police Station,-38.2308228,143.1465418
+Cann River,2 Monaro Highway,Cann River,3890,VIC,Police Station,-37.5645439,149.1516173
+Melbourne North,36 Wreckyn Street,North Melbourne,3051,VIC,Police Station,-37.800308,144.9545656
+Caroline Springs,221 Caroline Springs Boulevard,Caroline Springs,3023,VIC,Police Station,-37.7305008,144.7405931
+Casterton,2 Jackson Street,Casterton,3311,VIC,Police Station,-37.5853245,141.4060271
+Castlemaine,50 Lyttleton Street,Castlemaine,3450,VIC,Police Station,-37.064816,144.21837
+Caulfield,285 Hawthorn Road,Caulfield,3162,VIC,Police Station,-37.8810353,145.0233112
+Cavendish,27 Scott Street,Cavendish,3314,VIC,Police Station,-37.5272049,142.0404104
+Charlton,12 Camp Street,Charlton,3525,VIC,Police Station,-36.2696054,143.3483735
+Chelsea,312 Station Street,Chelsea,3196,VIC,Police Station,-38.0508872,145.1159679
+Cheltenham,1224 Nepean Highway,Cheltenham,3192,VIC,Police Station,-37.9647439,145.0565872
+Chiltern,64 Main Street,Chiltern,3683,VIC,Police Station,-36.1478646,146.6106972
+Churchill,6 Switchback Road,Churchill,3842,VIC,Police Station,-38.3076626,146.4174259
+Clayton,263 Clayton Road,Clayton,3168,VIC,Police Station,-37.920137,145.120466
+Clunes,2 Hannah Street,Clunes,3370,VIC,Police Station,-37.2951495,143.783629
+Cobden,52 Curdie Street,Cobden,3266,VIC,Police Station,-38.3281915,143.0755614
+Cobram,32 William Street,Cobram,3644,VIC,Police Station,-35.9262416,145.6507375
+Cohuna,25 Market Street,Cohuna,3568,VIC,Police Station,-35.8113448,144.2215336
+Colac,42 Queen Street,Colac,3250,VIC,Police Station,-38.3377576,143.592549
+Coleraine,61 Mcleod Street,Colleraine,3315,VIC,Police Station,-37.5997221,141.693774
+Collingwood,1 Eddy Court,Abbotsford,3067,VIC,Police Station,-37.8040397,144.9935293
+Corio,117 Bacchus Marsh Road,Corio,3214,VIC,Police Station,-38.0736347,144.3582267
+Corryong,17 Jardine Street,Corryong,3707,VIC,Police Station,-36.1944144,147.9038815
+Cowes,92 Chapel Street,Cowes,3922,VIC,Police Station,-38.4500808,145.2357257
+Craigieburn,155 Craigieburn Road,Craigeburn,3064,VIC,Police Station,-37.5985883,144.9330788
+Cranbourne,168 Sladen Street,Cranbourne,3977,VIC,Police Station,-38.1133624,145.2834295
+Creswick,137 Napier Street,Creswick,3363,VIC,Police Station,-37.4298985,143.8923472
+Croydon,171 Mnt Dandenong Road,Croydon,3136,VIC,Police Station,-37.7992166,145.2784991
+Culgoa,19 Culgoa-Ultima Road,Culgoa,3530,VIC,Police Station,-35.6837735,143.1017259
+Dandenong,50 Langhorne Street,Dandenong,3175,VIC,Police Station,-37.9902486,145.2173849
+Dartmoor,23 Wapling Avenue,Dartmoor,3304,VIC,Police Station,-37.9218081,141.2819416
+Daylesford,15 Camp Street,Daylesford,3460,VIC,Police Station,-37.3422425,144.1458268
+Dederang,4396 Kiewa Valley Highway,Dederang,3691,VIC,Police Station,-36.4714178,147.017952
+Diamond Creek,83 Main_Hurstbridge Road,Diamond Creek,3089,VIC,Police Station,-37.6738391,145.1606229
+Dimboola,57 Lloyd Street,Dimboola,3414,VIC,Police Station,-36.4564401,142.0278815
+Donald,13 Byrne Street,Donald,3480,VIC,Police Station,-36.3736569,142.9840665
+Doncaster,979 Doncaster Road,Doncaster East,3109,VIC,Police Station,-37.7885791,145.1576372
+Dookie,26 Queen Street,Dookie,3646,VIC,Police Station,-36.3304489,145.6857037
+Dromana,321 Point Nepean Road,Dromana,3936,VIC,Police Station,-38.3347317,144.9610516
+Drouin,184 Princes Way,Drouin,3818,VIC,Police Station,-38.130212,145.849323
+Drysdale,13 Eversley Street,Drysdale,3222,VIC,Police Station,-38.1745537,144.569268
+Dunkeld,69 Parker Street,Dunkeld,3294,VIC,Police Station,-37.650002,142.3454214
+Dunolly,16 Bull Street,Dunolly,3472,VIC,Police Station,-36.8576153,143.7323953
+Eaglehawk,9 Brazier Street,Eaglehawk,3556,VIC,Police Station,-36.7204145,144.2557804
+Echuca,11 Dickson Street,Echuca,3564,VIC,Police Station,-36.11909,144.744872
+Edenhope,3 Orme Street,Edenhope,3318,VIC,Police Station,-37.0362211,141.2929337
+Eildon,22 Main Street,Eildon,3713,VIC,Police Station,-37.2322763,145.9103225
+Elmhurst,27 Pyrenees Highway,Elmhurst,3469,VIC,Police Station,-37.1805742,143.2508089
+Elmore,58 Hervey Street,Elmore,3558,VIC,Police Station,-36.4959931,144.6110343
+Eltham,21 Pryor Street,Eltham,3095,VIC,Police Station,-37.713447,145.150637
+Emerald,17 Kilvington Drive,Emerald,3782,VIC,Police Station,-37.934014,145.44103
+Endeavour Hills,80 Heatherton Road,Endeavour Hills,3802,VIC,Police Station,-37.975796,145.2618149
+Epping,785 High Street,Epping,3076,VIC,Police Station,-37.647019,145.025866
+Euroa,38 Kirkland Avenue,Euroa,3666,VIC,Police Station,-36.7515761,145.5725793
+Falls Creek,0 Falls Creek Road,Falls Creek,3699,VIC,Police Station,-36.8633351,147.2772749
+Fawkner,1187 Sydney Road,Hadfield,3046,VIC,Police Station,-37.7086619,144.9613441
+Fitzroy,419 Young Street,Fitzroy,3065,VIC,Police Station,-37.794313,144.9803636
+Flemington,34 Wellington Street,Flemington,3031,VIC,Police Station,-37.784876,144.932179
+Footscray,66 Hyde Street,Footscray,3011,VIC,Police Station,-37.8038142,144.9012542
+Forrest,47 Station Street,Forrest,3236,VIC,Police Station,-38.5210248,143.7166274
+Foster,69 Main Street,Foster,3960,VIC,Police Station,-38.6521459,146.2024355
+Frankston,15 Fletcher Road,Frankston,3199,VIC,Police Station,-38.1389007,145.1246668
+Geelong,110 Mercer Street,Geelong,3220,VIC,Police Station,-38.1450401,144.3568506
+Gisborne,35 Robertson Street,Gisborne,3437,VIC,Police Station,-37.4853278,144.5854046
+Glen Waverley,643 Ferntree Gully Road,Glen Waverley,3150,VIC,Police Station,-37.903317,145.1641871
+Glenrowan,72 Gladstone Street,Glenrowan,3675,VIC,Police Station,-36.4635082,146.2271542
+Goornong,56 Railway Place South,Goornong,3557,VIC,Police Station,-36.6140544,144.509227
+Gordon,86 Main Street,Gordon,3345,VIC,Police Station,-37.5798074,144.1014971
+Goroke,58 Main Street,Goroke,3412,VIC,Police Station,-36.7185742,141.4716842
+Greensborough,167 Grimshaw Street,Greensborough,3088,VIC,Police Station,-37.7039043,145.0966632
+Gunbower,42 Murray Valley Highway,Gunbower,3566,VIC,Police Station,-35.9560607,144.3662047
+Halls Gap,74 Grampians Road,Halls Gap,3381,VIC,Police Station,-37.1365239,142.5192956
+Hamilton,11 Thompson Street,Hamilton,3300,VIC,Police Station,-37.7476701,142.0260467
+Harrow,Harrow-Casterton Rd,Harrow,3317,VIC,Police Station,-37.1923975,141.5430708
+Hastings,137 High Street,Hastings,3915,VIC,Police Station,-38.307863,145.184676
+Healesville,38 Harker Street,Healesville,3777,VIC,Police Station,-37.6566271,145.5108813
+Heathcote,140 High Street,Heathcote,3523,VIC,Police Station,-36.9217141,144.7091293
+Heidelberg,11 Jika Street,Heidelberg,3084,VIC,Police Station,-37.7579088,145.0711168
+Heidelberg West,102 Altona Street,Heidelberg Heights,3081,VIC,Police Station,-37.7462515,145.0473025
+Heyfield,9 Temple Street,Heyfield,3858,VIC,Police Station,-37.9814606,146.7855545
+Heywood,9 Lindsay Street,Heywood,3304,VIC,Police Station,-38.133292,141.6289962
+Hopetoun,17 Dennys Street,Hopetoun,3396,VIC,Police Station,-35.729287,142.3647004
+Horsham,20 Roberts Avenue,Horsham,3400,VIC,Police Station,-36.7140674,142.2012219
+Hurstbridge,792 Main Road,Hurstbridge,3099,VIC,Police Station,-37.7037344,145.1546852
+Inglewood,98 Grant Street,Inglewood,3517,VIC,Police Station,-36.5765698,143.8706348
+Inverleigh,90 High Street,Inverleigh,3321,VIC,Police Station,-38.1015759,144.0506042
+Inverloch,13 Bayview Avenue,Inverloch,3996,VIC,Police Station,-38.6309377,145.7275256
+Jamieson,22 Nash Street,Jamieson,3723,VIC,Police Station,-37.3031664,146.1380989
+Jeparit,14 Hindmarsh Street,Jeparit,3423,VIC,Police Station,-36.1433688,141.9884857
+Kaniva,83 Commercial Street,Kaniva,3419,VIC,Police Station,-36.37887,141.2420549
+Katamatite,Beek Street,Katamatite,3649,VIC,Police Station,-36.0795482,145.6894018
+Keilor Downs,1 Copernicus Way,Keilor Downs,3038,VIC,Police Station,-37.7238281,144.8075012
+Kerang,16 Albert Street,Kerang,3579,VIC,Police Station,-35.7339068,143.9215075
+Kilmore,111 Powlett Street,Kilmore,3764,VIC,Police Station,-37.3070643,144.9498551
+Kinglake,15 Whittlesea-Kinglake Road,Kinglake,3763,VIC,Police Station,-37.5315314,145.3404877
+Knox,420 Burwood Highway,Wantirna South,3152,VIC,Police Station,-37.8700265,145.2368623
+Koo Wee Rup,260 Rossiter Road,Koo Wee Rup,3981,VIC,Police Station,-38.200235,145.489105
+Koondrook,67 Main Street,Koondrook,3580,VIC,Police Station,-35.6449111,144.1313262
+Koroit,97 Commercial Road,Koroit,3282,VIC,Police Station,-38.2923793,142.3678854
+Korumburra,22 Bridge Street,Korumburra,3950,VIC,Police Station,-38.4345756,145.8243117
+Kyabram,306 Allen Street,Kyabram,3620,VIC,Police Station,-36.3136956,145.0525638
+Kyneton,44 Beauchamp Street,Kyneton,3444,VIC,Police Station,-37.2426782,144.4568214
+Lake Boga,2A Murray Valley Highway,Lake Boga,3584,VIC,Police Station,-35.4528369,143.6262902
+Lake Bolac,2100 Glenelg Highway,Lake Bolac,3351,VIC,Police Station,-37.7112329,142.8417684
+Lakes Entrance,1 Roadknight Street,Lakes Entrance,3909,VIC,Police Station,-37.8760515,147.9975396
+Lancefield,57 Main Road,Lancefield,3435,VIC,Police Station,-37.278538,144.7362765
+Landsborough,2427 Ararat-St Arnaud Road,Landsborough,3384,VIC,Police Station,-37.003641,143.128534
+Lang Lang,11 Westernport Road,Lang Lang,3984,VIC,Police Station,-38.2653032,145.5634698
+Lara,6 Forest Road,Lara,3212,VIC,Police Station,-38.023466,144.3960474
+Lavers Hill,62-66 Great Ocean Road,Lavers Hill,3238,VIC,Police Station,-38.682598,143.386338
+Laverton,36 Maher Road,Laverton,3028,VIC,Police Station,-37.863264,144.7714025
+Learmonth,43 High Street,Learmonth,3352,VIC,Police Station,-37.4314578,143.7290539
+Leongatha,8 Anderson Street,Leongatha,3953,VIC,Police Station,-38.4750197,145.9459507
+Lexton,11 Williamson Street,Lexton,3352,VIC,Police Station,-37.274263,143.517472
+Lilydale,6-10 Albert Hill Road,Lilydale,3140,VIC,Police Station,-37.7556034,145.3423958
+Linton,88 Sussex Street,Linton,3360,VIC,Police Station,-37.6877188,143.5617229
+Lismore,69 High Street,Lismore,3324,VIC,Police Station,-37.9532863,143.3397661
+Loch,2 Victoria Street,Loch,3945,VIC,Police Station,-38.3686131,145.7031233
+Lorne,44 Smith Street,Lorne,3232,VIC,Police Station,-38.5408508,143.9737498
+Macarthur,12 Market Street,Macarthur,3286,VIC,Police Station,-38.0324885,142.000848
+Macedon,59 Victoria Street,Macedon,3440,VIC,Police Station,-37.4229218,144.5677692
+Maffra,40 Johnson Street,Maffra,3860,VIC,Police Station,-37.965063,146.973572
+Maldon,Francis St,Maldon,3463,VIC,Police Station,-36.9961377,144.0684951
+Mallacoota,35 Lee Road,Mallacoota,3892,VIC,Police Station,-37.5601031,149.7508069
+Malmsbury,74 Mollison Street,Malmsbury,3446,VIC,Police Station,-37.1881814,144.3850034
+Malvern,278 Glenferrie Road,Malvern,3144,VIC,Police Station,-37.857087,145.029377
+Manangatang,Wattle And Coghill Street,Manangatang,3546,VIC,Police Station,-35.0505532,142.8828598
+Mansfield,92 High Street,Mansfield,3722,VIC,Police Station,-37.0523072,146.0869735
+Maryborough,16 Campbell Street,Maryborough,3465,VIC,Police Station,-37.0460547,143.7360548
+Marysville,13 Pack Road,Marysville,3779,VIC,Police Station,-37.5124424,145.7467192
+Meeniyan,139 Whitelaw Street,Meeniyan,3956,VIC,Police Station,-38.5800592,146.0106523
+Melbourne Airport,"International Building, Arrival Drive",Melbourne Airport,3045,VIC,Police Station,-37.6690123,144.8410273
+Melbourne East,226 Flinders Lane,Melbourne,3000,VIC,Police Station,-37.8165108,144.9664429
+Melbourne West,637 Flinders Street,Docklands,3008,VIC,Police Station,-37.8215022,144.9532794
+Melton,243 Station Road,Melton,3337,VIC,Police Station,-37.6858335,144.5779411
+Merbein,2 Railway Avenue,Merbein,3505,VIC,Police Station,-34.1673386,142.0611118
+Meredith,14 Wilson Avenue,Meredith,3333,VIC,Police Station,-37.8465133,144.0757348
+Merino,22 Annesley Street,Merino,3310,VIC,Police Station,-37.7202678,141.5496683
+Mildura,62 Deakin Street,Mildura,3500,VIC,Police Station,-34.1860629,142.1620677
+Mill Park,151 Centenary Drive,Mill Park,3082,VIC,Police Station,-37.657349,145.075423
+Minyip,48 Main Street,Minyip,3392,VIC,Police Station,-36.4602983,142.5861205
+Mirboo North,77 Ridgeway Street,Mirboo North,3871,VIC,Police Station,-38.400883,146.1588877
+Mitta Mitta,5554 Omeo Highway,Eskdale,3701,VIC,Police Station,-36.5371724,147.3777896
+Moe,1 Fowler Street,Moe,3825,VIC,Police Station,-38.1776252,146.2611441
+Monbulk,58 Main Road,Monbulk,3793,VIC,Police Station,-37.875241,145.407696
+Moonee Ponds,766 Mt Alexander Road,Moonee Ponds,3039,VIC,Police Station,-37.7647123,144.9240785
+Moorabbin,1010 Nepean Highway,Moorabbin,3189,VIC,Police Station,-37.942402,145.040766
+Mooroolbark,188 Hull Road,Mooroolbark,3138,VIC,Police Station,-37.7895378,145.310535
+Mooroopna,119 Mclennan Road,Mooroopna,3629,VIC,Police Station,-36.395426,145.3561206
+Mordialloc,31A Albert Street,Mordialloc,3195,VIC,Police Station,-38.0037779,145.0862401
+Mornington,8 Main Street,Mornington,3931,VIC,Police Station,-38.2159201,145.036861
+Mortlake,32 Officer Street,Mortlake,3272,VIC,Police Station,-38.0816194,142.8081422
+Morwell,8 Hazelwood Road,Morwell,3840,VIC,Police Station,-38.2372925,146.3944173
+Mount Beauty,2B Park Street,Mount Beauty,3699,VIC,Police Station,-36.7439745,147.1713747
+Mount Buller,69 Chamois Close,Mount Buller,3723,VIC,Police Station,-37.14604,146.4509116
+Mount Evelyn,17 Gear Avenue,Mount Evelyn,3796,VIC,Police Station,-37.7877263,145.3832241
+Mount Hotham,0 Alpine Road,Hotham Heights,3741,VIC,Police Station,-36.8738099,147.0632205
+Mount Waverley,338 Stephensons Road,Mount Waverley,3149,VIC,Police Station,-37.880457,145.128343
+Moyhu,31 Bartley Street,Moyhu,3732,VIC,Police Station,-36.5779432,146.3749049
+Murchison,8 Watson Street,Murchison,3610,VIC,Police Station,-36.6181339,145.2159067
+Murrayville,13 Reed Street,Murrayville,3512,VIC,Police Station,-35.2640714,141.1826663
+Murrumbeena,7 Railway Parade,Murrumbeena,3163,VIC,Police Station,-37.890729,145.067309
+Murtoa,13 Degenhardt Street,Murtoa,3390,VIC,Police Station,-36.6167296,142.4696354
+Myrtleford,26 Clyde Street,Myrtleford,3737,VIC,Police Station,-36.5612162,146.725375
+Nagambie,11 Filson Street,Nagambie,3608,VIC,Police Station,-36.788478,145.1539745
+Narre Warren,8 Coventry Road,Narre Warren,3805,VIC,Police Station,-38.0261571,145.3115398
+Nathalia,66 Blake Street,Nathalia,3638,VIC,Police Station,-36.0597534,145.2036414
+Natimuk,39 Main Street,Natimuk,3409,VIC,Police Station,-36.7397337,141.9470446
+Neerim South,76 Main Neerim Road,Neerim South,3831,VIC,Police Station,-38.018495,145.955152
+Newstead,35 Lyons Street,Newstead,3462,VIC,Police Station,-37.1055497,144.0694124
+Nhill,110 Macpherson Street,Nhill,3418,VIC,Police Station,-36.3347202,141.6509638
+Northcote,48 Dennis Street,Northcote,3070,VIC,Police Station,-37.7661234,145.0021467
+Numurkah,19 Saxton Street,Numurkah,3636,VIC,Police Station,-36.0885349,145.4443592
+Nunawading,401 Whitehorse Road,Nunawading,3131,VIC,Police Station,-37.817504,145.183294
+Nyah,2 Hayes Hill Road,Nyah West,3594,VIC,Police Station,-35.1716832,143.3781122
+Oakleigh,1 Atherton Road,Oakleigh,3166,VIC,Police Station,-37.898323,145.088003
+Olinda,549A Mount Dandenong_Tourist Road,Olinda,3788,VIC,Police Station,-37.8561075,145.3650404
+Omeo,19 Tongio Road,Omeo,3898,VIC,Police Station,-37.102038,147.5923365
+Orbost,1 Lawson Lane,Orbost,3888,VIC,Police Station,-37.7066508,148.4559973
+Ouyen,19 Pickering Street,Ouyen,3490,VIC,Police Station,-35.0699651,142.3153257
+Pakenham,780 Princes Highway,Pakenham,3810,VIC,Police Station,-38.0615309,145.4528051
+Penshurst,37 Martin Street,Penshurst,3289,VIC,Police Station,-37.8744014,142.2897223
+Piangil,49 Murray Street,Piangil,3597,VIC,Police Station,-35.0539832,143.3137016
+Port Campbell,59 Lord Street,Port Campbell,3269,VIC,Police Station,-38.6178732,142.9979304
+Port Fairy,10 Campbell Street,Port Fairy,3284,VIC,Police Station,-38.3876597,142.2393484
+Portarlington,119 Newcombe Street,Portarlington,3223,VIC,Police Station,-38.1153444,144.6578873
+Portland,2 Glenelg Street,Portland,3305,VIC,Police Station,-38.3525245,141.6080973
+Prahran,396 Malvern Road,Prahran,3181,VIC,Police Station,-37.8480127,145.00017
+Preston,55 Roseberry Avenue,Preston,3072,VIC,Police Station,-37.739317,145.0057434
+Preston East,54 Murray Road,Preston,3072,VIC,Police Station,-37.7403625,145.0275635
+Pyalong,17 High Street,Pylong,3521,VIC,Police Station,-37.123322,144.8568467
+Pyramid Hill,9 Victoria Street,Pyramid Hill,3575,VIC,Police Station,-36.0549849,144.1130686
+Quambatook,5 Guthrie Street,Quambatook,3540,VIC,Police Station,-35.8522674,143.5213965
+Queenscliff,56 Gellibrand Street,Queenscliff,3225,VIC,Police Station,-38.270115,144.6610162
+Rainbow,9 King Street,Rainbow,3424,VIC,Police Station,-35.8994522,141.9951952
+Rawson,4 Pinnicle Drive,Rawson,3825,VIC,Police Station,-37.9568023,146.395901
+Raywood,29A Bendigo/Pyramid Road,Raywood,3570,VIC,Police Station,-36.5276224,144.2094514
+Red Cliffs,9 Jacaranda Street,Red Cliffs,3496,VIC,Police Station,-34.3040452,142.1867801
+Reservoir,25 Edwardes Street,Reservoir,3073,VIC,Police Station,-37.717278,145.0052403
+Richmond,225 Church Street,Richmond,3121,VIC,Police Station,-37.8174493,144.9995784
+Riddells Creek,65 Main Road,Ridells Creek,3431,VIC,Police Station,-37.4620416,144.6782257
+Ringwood,31 Ringwood Street,Ringwood,3134,VIC,Police Station,-37.813135,145.227136
+Robinvale,95 Bromley Road,Robinvale,3549,VIC,Police Station,-34.5855353,142.7706163
+Rochester,27 Moore Street,Rochester,3561,VIC,Police Station,-36.3632911,144.6990961
+Rokewood,54 Ferrars Street,Rokewood,3330,VIC,Police Station,-37.9009504,143.7216534
+Romsey,155 Main Street,Romsey,3434,VIC,Police Station,-37.343916,144.7413187
+Rosebud,95 Boneo Road,Rosebud,3939,VIC,Police Station,-38.3698199,144.8896588
+Rosedale,Lyons St,Rosedale,3847,VIC,Police Station,-38.1527258,146.7895553
+Rowville,30 Fulham Road,Rowville,3178,VIC,Police Station,-37.9188912,145.2388115
+Rupanyup,60 Cromie Street,Rupanyup,3388,VIC,Police Station,-36.6331041,142.6307015
+Rushworth,73 High Street,Rushworth,3612,VIC,Police Station,-36.5904333,145.0167087
+Rutherglen,167 High Street,Rutherglen,3685,VIC,Police Station,-36.056489,146.4586404
+Rye,4 Dundas Street,Rye,3941,VIC,Police Station,-38.3706416,144.8189292
+Sale,60 York Street,Sale,3850,VIC,Police Station,-38.1108717,147.0684478
+San Remo,28 Phillip Island Road,San Remo,3925,VIC,Police Station,-38.5210368,145.3784189
+Bayside,25 Abbot Street,Sandringham,3191,VIC,Police Station,-37.948331,145.0039577
+Sea Lake,102 Horace Street,Sea Lake,3533,VIC,Police Station,-35.5024762,142.8497553
+Serpentine,1 Tresise Street,Serpentine,3517,VIC,Police Station,-36.406532,143.9739554
+Seymour,58 Tallarook Street,Seymour,3660,VIC,Police Station,-37.0203663,145.1300836
+Shepparton,155 Welsford Street,Shepparton,3630,VIC,Police Station,-36.3815302,145.3979797
+Skipton,22 Blake Street,Skipton,3361,VIC,Police Station,-37.6839071,143.3611787
+Smythesdale,4 Smythesdale/Sebastapol Road,Smythesdale,3351,VIC,Police Station,-37.6432285,143.6865239
+Sorrento,12 Hotham Road,Sorrento,3943,VIC,Police Station,-38.33613,144.742144
+South Melbourne,211 Bank Street,South Melbourne,3205,VIC,Police Station,-37.834847,144.9595691
+Speed,10 Carter Street,Speed,3488,VIC,Police Station,-35.400973,142.4407119
+Springvale,314 Springvale Road,Springvale,3171,VIC,Police Station,-37.9552434,145.1514378
+St Arnaud,5 Jennings Street,St Arnaud,3478,VIC,Police Station,-36.616945,143.2597546
+St Kilda,92 Chapel Street,St Kilda,3182,VIC,Police Station,-37.8678873,144.9906777
+St Kilda Road,412 St Kilda Road,Melbourne,3004,VIC,Police Station,-37.83502,144.974344
+Stanhope,46 Birdwood Avenue,Stanhope,3623,VIC,Police Station,-36.4464358,144.9850997
+Stawell,9 Patrick Street,Stawell,3380,VIC,Police Station,-37.0556996,142.7840406
+Stratford,89 Tyers Street,Stratford,3862,VIC,Police Station,-37.963488,147.0802478
+Sunbury,41 Macedon Street,Sunbury,3429,VIC,Police Station,-37.5798246,144.7354815
+eleven,497 Ballarat Road,Sunshine,3020,VIC,Police Station,-37.7777901,144.8301138
+Swan Hill,507 Campbell Street,Swan Hill,3585,VIC,Police Station,-35.3556546,143.5626068
+Swifts Creek,6894 Great Alpine Road,Swifts Creek,3896,VIC,Police Station,-37.2621323,147.7209628
+Tallangatta,36 Towong Street,Tallangatta,3700,VIC,Police Station,-36.216468,147.1784845
+Tangambalanga,8 Huon-Kiewa Road,Tangambalanga,3691,VIC,Police Station,-36.2512874,147.0346164
+Tarnagulla,68 Commercial Road,Tarnagulla,3551,VIC,Police Station,-36.7701221,143.8331318
+Tatura,224 Hogan Street,Tatura,3616,VIC,Police Station,-36.4402759,145.2329115
+Terang,18 High Street,Terang,3264,VIC,Police Station,-38.2408146,142.9196306
+Timboon,74 Bailey Street,Timboon,3268,VIC,Police Station,-38.4834406,142.9712516
+Tongala,72 Miller Street,Tongala,3621,VIC,Police Station,-36.2494392,144.9509212
+Toora,5 Foster Road,Toora,3962,VIC,Police Station,-38.6615758,146.3247222
+Torquay,122 Surf Coast Highway,Torquay,3228,VIC,Police Station,-38.3254867,144.3177911
+Trafalgar,27 Contingent Street,Trafalgar,3824,VIC,Police Station,-38.2126377,146.1541948
+Traralgon,17 Kay Street,Traralgon,3844,VIC,Police Station,-38.1948528,146.536605
+Trentham,12 Cosmo Road,Trentham,3458,VIC,Police Station,-37.390683,144.3212069
+Tungamah,37 Argus Street,Tungamah,3728,VIC,Police Station,-36.1656686,145.8804409
+Underbool,32 Monash Avenue,Underbool,3509,VIC,Police Station,-35.1711195,141.8099258
+Violet Town,53 Cowslip Street,Violet Town,3669,VIC,Police Station,-36.6361779,145.7152663
+Wallan,100 Watson Street,Wallan,3756,VIC,Police Station,-37.4165105,144.9816975
+Walwa,2 Hanna Street,Walwa,3709,VIC,Police Station,-35.9649698,147.7336884
+Wangaratta,1 Handley Street,Wangaratta,3677,VIC,Police Station,-36.3604288,146.3122081
+Warburton,1 Station Road,Warburton,3799,VIC,Police Station,-37.7554697,145.6819408
+Warracknabeal,87 Scott Street,Warracknabeal,3393,VIC,Police Station,-36.2499803,142.3952758
+Warragul,37 Palmerston Street,Warragul,3820,VIC,Police Station,-38.161787,145.9332783
+Warrandyte,65 Yarra Street,Warrandyte,3113,VIC,Police Station,-37.740886,145.212904
+Warrnambool,214 Koroit Street,Warrnambool,3280,VIC,Police Station,-38.3807472,142.4787681
+Wedderburn,4 Logan-Wedderburn Road,Wedderburn,3518,VIC,Police Station,-36.4646153,143.5877407
+Werribee,140 Princes Highway,Werribee,3030,VIC,Police Station,-37.893969,144.681043
+Werrimull,Millewa Road,Werrimull,3496,VIC,Police Station,-34.3953397,141.5622676
+Whitfield,4886 Wangaratta-Whitfield Road,Whitfield,3733,VIC,Police Station,-36.7641167,146.4146342
+Whittlesea,78 Church Street,Whittlesea,3757,VIC,Police Station,-37.5101354,145.1183457
+Willaura,80 Main Street,Willaura,3379,VIC,Police Station,-37.546009,142.7411263
+Williamstown,100 Nelson Place,Williamstown,3016,VIC,Police Station,-37.8635492,144.9065357
+Winchelsea,15 Hesse Street,Winchelsea,3241,VIC,Police Station,-38.2442653,143.9898971
+Wodonga,100 Hovell Street,Wodonga,3690,VIC,Police Station,-36.1221575,146.890079
+Wonthaggi,75 Watt Street,Wonthaggi,3995,VIC,Police Station,-38.6076045,145.5901928
+Woodend,39A Forest Street,Woodend,3442,VIC,Police Station,-37.354405,144.526648
+Woods Point,26 Scott Street,Woods Point,3723,VIC,Police Station,-37.5675224,146.2511861
+Woomelang,48 Brooke Street,Woomelang,3485,VIC,Police Station,-35.6810302,142.6657362
+Wycheproof,400 Broadway,Wycheproof,3527,VIC,Police Station,-36.0744554,143.2259652
+Yackandandah,8 Railway Avenue,Yackandandah,3749,VIC,Police Station,-36.3106367,146.8425092
+Yarra Glen,68 King Street,Yarra Glen,3775,VIC,Police Station,-37.660212,145.373201
+Yarra Junction,2419 Warburton Highway,Yarra Junction,3797,VIC,Police Station,-37.781297,145.6093311
+Yarram,123 Commercial Road,Yarram,3971,VIC,Police Station,-38.55996,146.677052
+Yarrawonga,25 Burley Road,Yarrawonga,3730,VIC,Police Station,-36.0208972,145.9952586
+Yea,4 High Street,Yea,3717,VIC,Police Station,-37.2105229,145.426724
+Police Academy,643 Ferntree Gully Road,Glen Waverley,3150,VIC,Police Station,-37.903317,145.1641871
+Police Airwing,104 Lionel Street,Essendon Airport,3041,VIC,Police Station,-37.7201571,144.8924441
+Flinders Street Complex,412 Flinders Street,Melbourne,3000,VIC,Police Station,-37.8195922,144.9597607
+Ballarat D24,74 Mair Street,Ballarat Central,3350,VIC,Police Station,-37.5598775,143.8591047
+Sebastapol Police Complex,1 Taylor Street,Sebastapol,3356,VIC,Police Station,-37.6017511,143.8418431
+Bendigo D24,221 High Street,Bendigo,3550,VIC,Police Station,-36.8035213,144.2425018
+Dawson Street,20 Dawson Street,Brunswick,3056,VIC,Police Station,-37.771016,144.958041
+Essendon Training Complex,198 Hammond Street,Essendon,3041,VIC,Police Station,-37.7271384,144.8923516
+Macleod Forensic Centre,31 Forensic Drive,Macleod,3085,VIC,Police Station,-37.7254693,145.0583615
+Collingwood Complex,119 Wellington Street,Collingwood,3066,VIC,Police Station,-37.8034039,144.9864399
+South Melbourne Ciu,286 Normanby Road,Port Melbourne,3207,VIC,Police Station,-37.8308879,144.9447095
+Attwood Police Complex,535 Mickleham Road,Attwood,3049,VIC,Police Station,-37.6611148,144.8839716
+Rosanna,247 Rosanna Road,Rosanna,3084,VIC,Police Station,-37.737924,145.0747962
+Whitehorse Tmu,1 Rooks Road,Nunawading,3131,VIC,Police Station,-37.8182656,145.1857458
+Melbourne Prosecutions,1/456 Lonsdale Street,Melbourne,3000,VIC,Police Station,-37.8131042,144.9586881
+Melbourne Custody Centre,240 William Street,Melbourne,3000,VIC,Police Station,-37.813359,144.957789
+Water Police/ S&R,100 Nelson Place,Williamstown,3016,VIC,Police Station,-37.8635492,144.9065357
+Wyndham North,610 Sayers Road,Tarneit,3029,VIC,Police Station,-37.8481871,144.686837
+Carrum Downs,42 Ballarto Road,Carrum Downs,3200,VIC,Police Station,-38.1146398,145.1733413
+Cressy,8 Lyons Street,Cressy,3322,VIC,Police Station,-38.031704,143.6336456
+Loch Sport,1 Government Road,Loch Sport,3851,VIC,Police Station,-38.0574033,147.5687688
+Station 1,456 Albert Street, East Melbourne,3002,VIC,Firestation,-37.8089056,144.9754443
+Station 2,60 Batman Street, West Melbourne,3003,VIC,Firestation,-37.8106463,144.951043
+Station 3,106 Bouverie Street, Carlton,3053,VIC,Firestation,-37.8038817,144.9621337
+Station 10,55 Church Street, Richmond,3121,VIC,Firestation,-37.812582,145.000507
+Station 18,45 William Street, Hawthorn,3122,VIC,Firestation,-37.821555,145.040229
+Station 35,156 Albert Street, Windsor,3181,VIC,Firestation,-37.856576,144.991267
+Station 38,26 Moray Street, South Melbourne,3205,VIC,Firestation,-37.8270175,144.9602021
+Station 39,425 Williamstown Rd, Port Melbourne,3207,VIC,Firestation,-37.833704,144.9318772
+Station 4,24 Blyth Street, Brunswick,3056,VIC,Firestation,-37.7659456,144.9650959
+Station 5,338 Camp Road, Broadmeadows,3047,VIC,Firestation,-37.686292,144.9294212
+Station 6,345A Gaffney Street, Pascoe Vale,3044,VIC,Firestation,-37.7316293,144.9380847
+Station 7,92 Mahoneys Road, Thomastown,3074,VIC,Firestation,-37.693384,144.999356
+Station 9,10 Somerton Park Drive, Campbellfield,3061,VIC,Firestation,-37.6446798,144.9467278
+Station 11,28 Childs Road, Epping,3076,VIC,Firestation,-37.6602249,145.0258216
+Station 12,471 Bell Street, Preston,3072,VIC,Firestation,-37.7446176,144.9950082
+Station 13,3 Mitchell Street, Northcote,3070,VIC,Firestation,-37.771987,144.999385
+Station 14,1083 Plenty Road, Bundoora,3083,VIC,Firestation,-37.7107707,145.048257
+Station 15,161 Bell Street, Heidelberg,3084,VIC,Firestation,-37.75281,145.049888
+Station 16,141 Grimshaw Street, Greensborough,3088,VIC,Firestation,-37.70432,145.098686
+Station 19,312 Doncaster Road, North Balwyn,3104,VIC,Firestation,-37.791692,145.095313
+Station 30,178 Foote Street, Templestowe,3106,VIC,Firestation,-37.759575,145.1291275
+Station 20,1052 Maroondah Highway, Box Hill,3128,VIC,Firestation,-37.8182113,145.1261911
+Station 22,272 Maroondah Highway, Ringwood,3134,VIC,Firestation,-37.8103714,145.2390476
+Station 23,25 Highbury Road, Burwood,3125,VIC,Firestation,-37.8536957,145.098187
+Station 24,80 Waverley Road, East Malvern,3145,VIC,Firestation,-37.876011,145.047143
+Station 25,100 Atherton Road, Oakleigh,3166,VIC,Firestation,-37.899658,145.0951977
+Station 26,14A Croydon Road, Croydon,3136,VIC,Firestation,-37.7936883,145.2819437
+Station 27,364 Maroondah Highway, Nunawading,3131,VIC,Firestation,-37.8185458,145.1764018
+Station 28,721 Highbury Road, Vermont South,3133,VIC,Firestation,-37.8616216,145.169621
+Station 29,529 Clayton Road, Clayton,3169,VIC,Firestation,-37.9390127,145.1166459
+Station 31,645 Ferntree Gully Road, Wheelers Hill,3150,VIC,Firestation,-37.9042646,145.1665544
+Station 32,311 North Road, South Caulfield,3162,VIC,Firestation,-37.901828,145.025466
+Station 33,103 Nepean Highway, Mentone,3194,VIC,Firestation,-37.9810457,145.0707873
+Station 34,150 Wickham Road, Highett,3190,VIC,Firestation,-37.9454349,145.0440926
+Station 40,75 Railway Avenue, Laverton,3028,VIC,Firestation,-37.8650044,144.7701128
+Station 41,9 Taylors Road, St Albans,3021,VIC,Firestation,-37.7297446,144.8140663
+Station 42,231 Melbourne Road, Newport,3015,VIC,Firestation,-37.8497056,144.8873769
+Station 43,782 Ballarat Road, Deer Park,3023,VIC,Firestation,-37.7704078,144.77838
+Station 44,30 Mcintyre Road, Sunshine,3020,VIC,Firestation,-37.7746542,144.8293878
+Station 45,8 Highgate Street, Spotswood,3015,VIC,Firestation,-37.823052,144.876397
+Station 46,7 Akuna Street, Altona,3018,VIC,Firestation,-37.8640127,144.8171855
+Station 47,69 Droop Street, Footscray,3011,VIC,Firestation,-37.7954398,144.8957751
+Station 48,470 Melton Hwy, Taylors Lakes,3038,VIC,Firestation,-37.695719,144.77514
+Station 49,Cnr Boundary & Fairbairn Road,Sunshine West,3020,VIC,Firestation,-37.8158867,144.8172716
+Station 50,258 Union Road, Moonee Ponds,3039,VIC,Firestation,-37.770588,144.916581
+Station 51,145 Milleara Road, East Keilor,3033,VIC,Firestation,-37.7408205,144.8633978
+Station 52,1 Western Avenue, Tullamarine,3043,VIC,Firestation,-37.6844427,144.8821544
+Mcdonald'S,1500 Eastlink Northbound,Scoresby,3179,VIC,Restaurant,-37.9122566,145.2134926
+Mcdonald'S,Princes Fwy,Officer,3809,VIC,Restaurant,-38.0607528,145.4133677
+Mcdonald'S,127 Canterbury Rd,Blackburn South,3130,VIC,Restaurant,-37.831578,145.147816
+Mcdonald'S,Burwood Hwy & Scott Grove,Burwood,3125,VIC,Restaurant,-37.8506486,145.0980404
+Mcdonald'S,606 Warrigal Rd,Holmesglen,3148,VIC,Restaurant,-37.875853,145.091004
+Mcdonald'S,North Rd & Poath Road,Oakleigh,3166,VIC,Restaurant,-37.9081296,145.0741707
+Mcdonald'S,661/663 Warrigal Rd,South Oakleigh,3167,VIC,Restaurant,-37.923326,145.082388
+Mcdonald'S,1736-1740 Dandenong Rd,Clayton,3168,VIC,Restaurant,-37.913666,145.1252989
+Mcdonald'S,Springvale Rd & Wellington Rd,Mulgrave,3170,VIC,Restaurant,-37.9185419,145.1588272
+Mcdonald'S,768-770 High St Rd,Glen Waverley,3150,VIC,Restaurant,-37.874644,145.167259
+Mcdonald'S,"Cnr Princes Highway & Elonera Road,  Princes Hwy",Noble Park,3174,VIC,Restaurant,-37.961173,145.188657
+Mcdonald'S,Cnr Springvale & Heatherton Roads,Springvale,3171,VIC,Restaurant,-37.9621726,145.1502517
+Mcdonald'S,"Boundary Rd & Centre Dandenong Rd,",Braeside,3195,VIC,Restaurant,-37.9722459,145.1116796
+Mcdonald'S,227-235 Church St,Richmond,3121,VIC,Restaurant,-37.8179956,144.999632
+Mcdonald'S,Nepean Hwy & Glenhuntly Road,Elsternwick,3185,VIC,Restaurant,-37.8838267,144.9972084
+Mcdonald'S,484 Malvern Rd,Prahran,3181,VIC,Restaurant,-37.848182,145.002577
+Mcdonald'S,Swanston Street Ii,Melbourne ,3000,VIC,Restaurant,-37.817205,144.967051
+Mcdonald'S,318 Whitehorse Rd,Balwyn,3103,VIC,Restaurant,-37.813448,145.084837
+Mcdonald'S,204/192 High St,Doncaster ,3108,VIC,Restaurant,-37.7741255,145.1141023
+Mcdonald'S,120 Bell St,Heidelberg Heights,3084,VIC,Restaurant,-37.75299,145.0515716
+Mcdonald'S,"Homemaker Centre, 19-33 Murray Rd,",Preston,3072,VIC,Restaurant,-37.7416938,145.0278434
+Mcdonald'S,411-423 Bell Street (Cnr St Georges Road),Preston ,3072,VIC,Restaurant,-37.7445369,144.9974957
+Mcdonald'S,Elizabeth Street,11/15 Elizabeth St,3000,VIC,Restaurant,-37.817825,144.964552
+Mcdonald'S,407 St Kilda Rd,St Kilda,3004,VIC,Restaurant,-37.8361779,144.9761191
+Mcdonald'S,392 Chapel St,South Yarra,3141,VIC,Restaurant,-37.845784,144.99455
+Mcdonald'S,Cnr Blackshaws & Millers Roads,Altona,3018,VIC,Restaurant,-37.831231,144.8483081
+Mcdonald'S,Western Ring Rd,Sunshine,3022,VIC,Restaurant,-37.7546654,144.8267892
+Mcdonald'S,280 Berwick-Cranbourne Rd,Clyde,3978,VIC,Restaurant,-38.1186343,145.3203786
+Mcdonald'S,410 Thompsons Rd,Cranbourne North,3977,VIC,Restaurant,-38.0845594,145.2939517
+Mcdonald'S,535 S Gippsland Hwy,Hampton Park,3976,VIC,Restaurant,-38.0416182,145.2524546
+Mcdonald'S,"Westfield Fountain Gate, 4 Brechin Dr",Narre Warren,3805,VIC,Restaurant,-38.0180142,145.3038674
+Mcdonald'S,"Endeavour Hills Shopping Centre, (Cnr Heatherton Rd), Matthew Flinders Ave",Endeavour Hills,3802,VIC,Restaurant,-37.976748,145.259106
+Mcdonald'S,Boundary Rd & Centre Dandenong Rd,Braeside,3915,VIC,Restaurant,-37.9722459,145.1116796
+Mcdonald'S,Nepean Hwy & Jamieson St,Cheltenham ,3125,VIC,Restaurant,-37.9606246,145.0543561
+Mcdonald'S,Cnr Cheltenham & Perry Roads,Keysborough,3175,VIC,Restaurant,-37.994449,145.1753838
+Mcdonald'S,Cnr Wells & Edithvale Roads,Springvale South,3172,VIC,Restaurant,-38.02884,145.130758
+Mcdonald'S,97/99 Cheltenham Rd,Dandenong ,3175,VIC,Restaurant,-37.9903476,145.1996414
+Mcdonald'S,Bp Service Centre 910 Thompson Rd Cnr Westernport Hwy,Lyndhurst ,3975,VIC,Restaurant,-38.078784,145.240126
+Mcdonald'S,Cnr Western Port Highway & Hall Road,Skye,3977,VIC,Restaurant,-38.108327,145.232293
+Mcdonald'S,"Cranbourne Park, South Gippsland Hwy Cranbourne Park Shopping Centre",Cranbourne ,3977,VIC,Restaurant,-38.110051,145.281344
+Mcdonald'S,"2- Cnr, Kangan Dr",Berwick ,3806,VIC,Restaurant,-38.040093,145.342717
+Mcdonald'S,"Cnr Clyde & Homestead Roads, Clyde Rd",Berwick,3806,VIC,Restaurant,-38.05561,145.3392349
+Mcdonald'S,452 Nepean Highway Wells Street,Frankston ,3199,VIC,Restaurant,-38.142508,145.12077
+Mcdonald'S,223 Cranbourne Rd,Karingal ,3199,VIC,Restaurant,-38.1518124,145.1538106
+Mcdonald'S,230-240 Cranbourne-Frankston Rd,Langwarrin,3910,VIC,Restaurant,-38.1508408,145.196819
+Mcdonald'S,"90 Hall Rd, Carrum Downs",Carrum Downs,3201,VIC,Restaurant,-38.101561,145.1861427
+Mcdonald'S,2 Golf Links Rd,Frankston,3199,VIC,Restaurant,-38.1645772,145.1379505
+Mcdonald'S,1-3/1400 Peninsula Link,Baxter,3911,VIC,Restaurant,-38.2048553,145.1361773
+Mcdonald'S,49 Eramosa Rd W,Somerville ,3912,VIC,Restaurant,-38.2242698,145.1697931
+Mcdonald'S,970 Nepean Hwy,Mornington ,3931,VIC,Restaurant,-38.2304658,145.0449349
+Mcdonald'S,Nepean Hwy & Fourth Avenue,Rosebud,3939,VIC,Restaurant,-38.3574547,144.8988737
+Mcdonald'S,"Arena Shopping Centre, 4 Cardinia Rd",Officer,3809,VIC,Restaurant,-38.0649125,145.4360393
+Mcdonald'S,4465 S Gippsland Hwy,Caldermeade,3984,VIC,Restaurant,-38.2454391,145.5371725
+Mcdonald'S,77 Young St,Drouin,3818,VIC,Restaurant,-38.1341992,145.8570763
+Mcdonald'S,51/53 Victoria St,Warragul ,3820,VIC,Restaurant,-38.1611699,145.9293442
+Mcdonald'S,28 Anderson St,Leongatha,3953,VIC,Restaurant,-38.4731513,145.9436457
+Mcdonald'S,51/53 Victoria St,Warragul,3820,VIC,Restaurant,-38.1611699,145.9293442
+Mcdonald'S,Princes Dr,Morwell,3840,VIC,Restaurant,-38.236478,146.4242247
+Mcdonald'S,1-3 Standing Dr,Traralgon East,3844,VIC,Restaurant,-38.19156,146.5625555
+Mcdonald'S,"Stockland Traralgon Shopping Centre, Traralgon Centre Plaza, 24-26 Argyle St",Traralgon,3844,VIC,Restaurant,-38.194457,146.541541
+Mcdonald'S,"Cnr Cunninghame & York Streets, York St",Sale,3850,VIC,Restaurant,-38.106946,147.067835
+Mcdonald'S,232 Main St,Bairnsdale,3875,VIC,Restaurant,-37.8261844,147.6278356
+Mcdonald'S,359/371 Esplanade,Lakes Entrance,3909,VIC,Restaurant,-37.8801157,147.9865925
+Mcdonald'S,285 Victoria Cross Parade,Wodonga,3690,VIC,Restaurant,-36.1380691,146.908886
+Mcdonald'S,"Birillee Shopping Centre, Melrose Drive",West Wodonga,3690,VIC,Restaurant,-36.1278479,146.8655677
+Mcdonald'S,285 Victoria Cross Parade,Wodonga,3690,VIC,Restaurant,-36.1380691,146.908886
+Mcdonald'S,13-17 Ryley St,Wangaratta,3676,VIC,Restaurant,-36.3584583,146.3172195
+Mcdonald'S,"Bp Service Centre, Northbound Side, Hume Highway",Glenrowan,3675,VIC,Restaurant,-36.438924,146.248014
+Mcdonald'S,53-55 Telford St,Yarrawonga,3730,VIC,Restaurant,-36.0180374,146.0042677
+Mcdonald'S,"Euroa Service Centre, Hume Fwy",Euroa,3666,VIC,Restaurant,-36.743472,145.591514
+Mcdonald'S,169/175 Numurkah Rd,Shepparton,3630,VIC,Restaurant,-36.3546708,145.4024767
+Mcdonald'S,12/22 Mclennan St,Mooroopna ,3629,VIC,Restaurant,-36.3933023,145.3637114
+Mcdonald'S,624-628 Wyndham St,Shepparton,3630,VIC,Restaurant,-36.3996119,145.3950782
+Mcdonald'S,479-489 High St,Echuca ,3564,VIC,Restaurant,-36.1250387,144.7469278
+Mcdonald'S,"2 Stafford St,",California Gully,3556,VIC,Restaurant,-36.7324733,144.2576316
+Mcdonald'S,582/586 Napier St,White Hills,3550,VIC,Restaurant,-36.7223943,144.312548
+Mcdonald'S,"Strath Village Shopping Centre, 144/146 Condon St",Bendigo,3550,VIC,Restaurant,-36.774744,144.3052216
+Mcdonald'S,218 High St,Bendigo ,3550,VIC,Restaurant,-36.8029076,144.2418129
+Mcdonald'S,"Melbourne Airport (Mel), Departure Dr",Melbourne Airport ,3045,VIC,Restaurant,-37.6690123,144.8410273
+Mcdonald'S,Western Fwy,Rockbank ,3335,VIC,Restaurant,-37.7328427,144.6678415
+Mcdonald'S,190/200 Ballarat Rd,Footscray ,3011,VIC,Restaurant,-37.7912364,144.8902633
+Mcdonald'S,260 Racecourse Rd,Flemington ,3031,VIC,Restaurant,-37.7878507,144.9317767
+Mcdonald'S,"Barkly Square, 90-106 Sydney Rd",Brunswick ,3056,VIC,Restaurant,-37.7756059,144.962204
+Mcdonald'S,199 Queens Parade,Fitzroy North,3068,VIC,Restaurant,-37.7871666,144.9935952
+Mcdonald'S,Nepean Hwy & Glenhuntly Road,Elsternwick,3185,VIC,Restaurant,-37.8838267,144.9972084
+Mcdonald'S,100 Waverley Rd,Malvern East,3145,VIC,Restaurant,-37.8760955,145.0478116
+Mcdonald'S,501-503 Elizabeth St,Melbourne,3000,VIC,Restaurant,-37.8073269,144.9596877
+Mcdonald'S,Victoria Parade & Smith St,Collingwood,3066,VIC,Restaurant,-37.808727,144.9825865
+Mcdonald'S,City Road,South Melbourne,3205,VIC,Restaurant,-37.8325038,144.9523665
+Mcdonald'S,692 Glenferrie Rd,Hawthorn ,3122,VIC,Restaurant,-37.820573,145.035927
+Mcdonald'S,"Crown Casino, Crown Towers Melbourne, 8 Whiteman St",Southbank,3006,VIC,Restaurant,-37.822345,144.96037
+Mcdonald'S," The Royal Children'S Hospital Melbourne, Royal Childrens Hospital, Flemington Rd, Flemington Road",Parkville,3052,VIC,Restaurant,-37.7934909,144.9493056
+Mcdonald'S,162 Somerville Rd,Yarraville,3013,VIC,Restaurant,-37.8125568,144.8841676
+Mcdonald'S,79-89 Keilor Rd,North Essendon,3042,VIC,Restaurant,-37.7423318,144.9039385
+Mcdonald'S,2 Little Boundary Rd,Brooklyn ,3025,VIC,Restaurant,-37.8235846,144.8236307
+Mcdonald'S,67 Military Rd,Avondale Heights,3034,VIC,Restaurant,-37.7665708,144.8633884
+Mcdonald'S,Cnr Blackshaws & Millers Roads,Altona ,3018,VIC,Restaurant,-37.831231,144.8483081
+Mcdonald'S,89 Keilor Park Dr,Keilor Park,3042,VIC,Restaurant,-37.7189583,144.8524507
+Mcdonald'S,173 Mickleham Rd,Tullamarine ,3043,VIC,Restaurant,-37.6988319,144.8804181
+Mcdonald'S,Bell St & Sussex St,Pascoe Vale,3044,VIC,Restaurant,-37.7395095,144.948471
+Mcdonald'S,1410-1424 Sydney Rd,Fawkner,3060,VIC,Restaurant,-37.6903217,144.9585969
+Mcdonald'S,1171-1173 Pascoe Vale Rd,Broadmeadows ,3047,VIC,Restaurant,-37.677526,144.922045
+Mcdonald'S,High St & Childs Road,Epping,3076,VIC,Restaurant,-37.6597109,145.0191688
+Mcdonald'S,30 Dalton Roads (Cnr Settlement Rd),Thomastown,3074,VIC,Restaurant,-37.6894559,145.0274157
+Mcdonald'S,University Dr,Mill Park,3082,VIC,Restaurant,-37.6598012,145.078981
+Mcdonald'S,375 Lower Plenty Rd,Yallambie,3085,VIC,Restaurant,-37.7311498,145.0865691
+Mcdonald'S,"Plenty Rd & Dunne Street,",Kingsbury ,3083,VIC,Restaurant,-37.7168339,145.0428975
+Mcdonald'S,"Homemaker Centre, 19-33 Murray Rd",Preston,3072,VIC,Restaurant,-37.7416938,145.0278434
+Mcdonald'S,Bridge St,Eltham,3095,VIC,Restaurant,-37.7190297,145.1463649
+Mcdonald'S,506-510 Middleborough Rd,Box Hill North,3130,VIC,Restaurant,-37.8096662,145.1406967
+Mcdonald'S,261/267 High St,Kew,3101,VIC,Restaurant,-37.8051418,145.0348792
+Mcdonald'S,20 Mt Derrimut Rd,Derrimut ,3030,VIC,Restaurant,-37.7835813,144.7716603
+Mcdonald'S,7 Fitzgerald Rd,Laverton North,3026,VIC,Restaurant,-37.8435536,144.7818032
+Mcdonald'S,1-9 Lunn Ct,Laverton,3028,VIC,Restaurant,-37.8697886,144.7610724
+Mcdonald'S,1-9 Jamieson Way,Point Cook,3030,VIC,Restaurant,-37.8970141,144.7537209
+Mcdonald'S,Sayers Rd & Forsyth Rd,Williams Landing ,3027,VIC,Restaurant,-37.8527666,144.7311911
+Mcdonald'S,276 Derrimut Rd,Hoppers Crossing,3029,VIC,Restaurant,-37.860885,144.686166
+Mcdonald'S,Ballan Rd & Manor Lakes Blvd,Wyndham Vale,3024,VIC,Restaurant,-37.875955,144.614427
+Mcdonald'S,565 Derrimut Rd,Tarneit ,3029,VIC,Restaurant,-37.8352794,144.6901564
+Mcdonald'S,1/377 Sayers Rd,Hoppers Crossing,3029,VIC,Restaurant,-37.8510048,144.7075276
+Mcdonald'S,41-43 Synnot St,Werribee,3030,VIC,Restaurant,-37.9030291,144.6617332
+7-Eleven ,123/125 Warrigal Rd,Oakleigh,3166,VIC,Convenience Shop,-37.903367,145.0862386
+Caltex,969 Murrumbeena Cres,Murrumbeena,3163,VIC,Petrol Station,-37.8999782,145.0702172
+Coles Express,779/763 Dandenong Rd,Malvern,3144,VIC,Petrol Station,-37.873054,145.037864
+Bp,1400 Dandenong Rd,Oakleigh,3166,VIC,Petrol Station,-37.8935099,145.0898371
+7-Eleven,Malvern Rd,Malvern East,3145,VIC,Petrol Station,-37.8721733,145.0629244
+United Petroleum,1644 Princes Hwy,Clayton,3168,VIC,Petrol Station,-37.906804,145.114406
+United Petroleum,952 North Rd,Murrumbeena,3163,VIC,Petrol Station,-37.9070525,145.0653334
+Caltex Star Mart,147 Koornang Rd,Carnegie,3163,VIC,Petrol Station,-37.8893485,145.0567449
+Coles Express,1386-1388 Dandenong Rd,Oakleigh,3166,VIC,Petrol Station,-37.8933528,145.0884879
+United Petroleum,641-643 Centre Rd,Bentleigh East,3165,VIC,Petrol Station,-37.9201135,145.0522618
+Coles Express,260 Stephensons Rd,Mount Waverley,3149,VIC,Petrol Station,-37.8765989,145.1292314
+7-Eleven,609 Waverley Rd,Chadstone,3148,VIC,Petrol Station,-37.8770515,145.0859244
+Coles Express,422/424 South Rd,Moorabbin,3189,VIC,Petrol Station,-37.934334,145.042744
+7-Eleven,Mckinnon Rd,Mckinnon,3204,VIC,Petrol Station,-37.9111474,145.0390062
+Bp,720/716 Warrigal Rd,Chadstone,3148,VIC,Petrol Station,-37.8845688,145.0894561
+Bp,162-168 Warrigal Rd,Melbourne,3166,VIC,Petrol Station,-37.9078606,145.0856218
+Caltex Star Mart,Clayton Rd,Clayton,3168,VIC,Petrol Station,-37.9142743,145.1218171
+7-Eleven,15-17 Sir John Monash Dr,Caulfield,3162,VIC,Convenience Shop,-37.8767061,145.0423155
+Bp,682/688 Springvale Rd,Mulgrave ,3170,VIC,Petrol Station,-37.9179,145.159121
+Bp,1367 High St,Malvern,3144,VIC,Petrol Station,-37.8579729,145.0408764
+Coles Express,359 Glenferrie Rd,Malvern,3144,VIC,Petrol Station,-37.8517677,145.0297042
+Hungry Jack'S,1414 Dandenong Rd,Oakleigh,3166,VIC,Restaurant,-37.8937421,145.0911177
+Hungry Jack'S,2/301 Smithfield Road,Flemington,3031,VIC,Restaurant,-37.7922028,144.9186802
+Hungry Jack'S,62 Cook Street,Port Melbourne,3207,VIC,Restaurant,-37.8307419,144.9156178
+Hungry Jack'S,99 Spencer Street,Melbourne,3000,VIC,Restaurant,-37.8158733,144.9517194
+Hungry Jack'S,3 Heatherdale Road,Ringwood,3134,VIC,Restaurant,-37.817958,145.213558
+Hungry Jack'S,148 Watton Street,Werribee,3030,VIC,Restaurant,-37.9027251,144.6588107
+Hungry Jack'S,10 Springvale Road,Springvale,3171,VIC,Restaurant,-37.933549,145.155367
+Hungry Jack'S,45 Donnybrook Road,Mickelham ,3064,VIC,Restaurant,-37.5397798,144.9389673
+Hungry Jack'S,5 Mt Dandenong Road,Ringwood,3134,VIC,Restaurant,-37.8109155,145.2389576
+Hungry Jack'S,1 Little Burwood Road,Wantirna South,3152,VIC,Restaurant,-37.8688367,145.2395375
+Hungry Jack'S,1370 Ferntree Gully Road,Knoxfield,3180,VIC,Restaurant,-37.8995635,145.2339136
+Hungry Jack'S,Parkmore Shopping Centre, Parkmore,3131,VIC,Restaurant,-37.9927256,145.173332
+Hungry Jack'S,593 - 605 Dorset Road,Croydon,3136,VIC,Restaurant,-37.8248805,145.2877226
+Hungry Jack'S,Coburn Central Shopping Centre,Melton,3337,VIC,Restaurant,-37.6856158,144.5667755
+Hungry Jack'S,100 Hall Road,Carrum Downs,3201,VIC,Restaurant,-38.1019184,145.1868748
+Hungry Jack'S,5-25 Hughes Road,Avalon,3211,VIC,Restaurant,-38.0003084,144.4933427
+Hungry Jack'S,35 Pousties Road,Avalon,3211,VIC,Restaurant,-38.0088476,144.4920116
+Hungry Jack'S,Great Southern Homemaker Centre,Cranbourne North,3977,VIC,Restaurant,-38.0850195,145.2784718
+Hungry Jack'S,Karingal Hub Shopping Centre,Frankston,3199,VIC,Restaurant,-38.1530272,145.165619
+Hungry Jack'S,456 Melbourne Road,Geelong,3220,VIC,Restaurant,-38.1005025,144.3543567
+Coles,445-457 Glenhuntly Rd,Elsternwick,3185,VIC,Supermarket,-37.8849318,145.0067698
+Coles,Burwood Hwy & Blackburn Rd,Burwood East,3023,VIC,Supermarket,-37.8524982,145.1520833
+Woolworth,551-557 Warrigal Road,Ashwood,3147,VIC,Supermarket,-37.8665722,145.0929357
+Woolworth,17-39 Canterbury Rd,Bayswater North,3153,VIC,Supermarket,-37.8229503,145.3018035
+Woolworth,522-550 Wellington Rd,Melbourne,3170,VIC,Supermarket,-37.921976,145.183035
+Terang Public Hospital,13 Austin Avenue,Terang,3264,VIC,Hospital,-38.2394022,142.9027022
+Alfred Public Hospital,55 Commercial Road,Melbourne,3004,VIC,Hospital,-37.8461546,144.9827469
+Caulfield Public Hospital,260 Kooyong Road,Caulfield,3162,VIC,Hospital,-37.8841756,145.0160107
+Northern Public Hospital,185 Cooper Street,Epping,3076,VIC,Hospital,-37.652886,145.0144858
+Maffra Public Hospital,42-48 Kent Street,Maffra,3860,VIC,Hospital,-37.9609641,146.9832787
+Royal Childrens Hospital,50 Flemington Road,Parkville,3052,VIC,Hospital,-37.7934909,144.9493056
+Sale Public Hospital,155 Guthridge Parade,Sale,3850,VIC,Hospital,-38.1087287,147.0807892
+Royal Vic Eye And Ear,32 Gisborne Street,East Melbourne,3002,VIC,Hospital,-37.8086564,144.9765177
+Cobram Public Hospital,24-32 Broadway Street,Cobram,3644,VIC,Hospital,-35.9165295,145.6506481
+Cohuna Public Hospital,144-158 King George Street,Cohuna,3568,VIC,Hospital,-35.8001404,144.214509
+Royal Womens Public Hospital,20 Flemington Road,Parkville,3052,VIC,Hospital,-37.7989513,144.9547606
+Timboon Public Hospital,21 Hospital Road,Timboon,3268,VIC,Hospital,-38.4863379,142.9773265
+Colac Public Hospital,12 Connor Street,Colac,3250,VIC,Hospital,-38.3409565,143.5828752
+Craigieburn Public Hospital,274-304 Craigieburn Road,Craigieburn,3064,VIC,Hospital,-37.5962838,144.9189253
+Tweddle Child Family Hospital,49-71 Adelaide Street,Footscray,3011,VIC,Hospital,-37.7974389,144.8872756
+Cranbourne Public Hospital,140-154 Sladen Street,Cranbourne,3977,VIC,Hospital,-38.113052,145.280789
+Corryong Public Hospital,16-20 Kiell Street,Corryong,3707,VIC,Hospital,-36.1987722,147.9033302
+Wantirna Public Hospital,251 Mountain Highway,Wantirna,3152,VIC,Hospital,-37.8497526,145.225287
+Dandenong Public Hospital,135 David Street,Dandenong,3175,VIC,Hospital,-37.9775897,145.2213504
+Werribee Mercy Hospital,300-310 Princes Highway,Werribee,3030,VIC,Hospital,-37.8856693,144.6989506
+Royal Dental Hospital,720 Swanston Street,Carlton,3053,VIC,Hospital,-37.8011592,144.9637735
+Warragul Public Hospital,41 Landsborough Street,Warragul,3820,VIC,Hospital,-38.1729249,145.9278315
+Bacchus Marsh Public Hospital,29-35 Grant Street,Bacchus Marsh,3340,VIC,Hospital,-37.678846,144.4322106
+Jeparit Public Hospital,2 Charles Street,Jeparit,3423,VIC,Hospital,-36.1406944,141.9841602
+Rupanyup Public Hospital,89-91 Cromie Street,Rupanyup,3388,VIC,Hospital,-36.6366658,142.6315452
+Kaniva Public Hospital,1-7 Roache Street,Kaniva,3419,VIC,Hospital,-36.3811855,141.2460609
+Ararat Public Hospital,9-29 Girdlestone Street,Ararat,3377,VIC,Hospital,-37.2793404,142.9325192
+Nhill Public Hospital,51 Nelson Street,Nhill,3418,VIC,Hospital,-36.3338782,141.6558375
+Willaura Public Hospital,21 Delacombe Way,Willaura,3379,VIC,Hospital,-37.5463404,142.7457671
+Rainbow Public Hospital,2 Swinbourne Avenue,Rainbow,3424,VIC,Hospital,-35.9039124,141.9947917
+Birchip Public Hospital,24-26 Duncan Street,Birchip,3483,VIC,Hospital,-35.9801376,142.9154452
+Hamilton Base Public Hospital,20 Foster Street,Hamilton,3300,VIC,Hospital,-37.7376394,142.0299958
+Charlton Public Hospital,4 Learmonth Street,Charlton,3525,VIC,Hospital,-36.2702995,143.3512489
+Donald Public Hospital,1A Aitken Avenue,Donald,3480,VIC,Hospital,-36.3664801,142.9763853
+Penshurst Public Hospital,146 Cobb Street,Penshurst,3289,VIC,Hospital,-37.8779857,142.2822141
+St Arnaud Public Hospital,52 North Western Road,St Arnaud,3478,VIC,Hospital,-36.609559,143.2468477
+Coleraine Public Hospital,71 Mcleod Street,Coleraine,3315,VIC,Hospital,-37.599783,141.6924664
+Wycheproof Public Hospital,19 Grandview Street,Wycheproof,3527,VIC,Hospital,-36.0792486,143.2340015
+Western Hospital - Footscray,160 Gordon Street,Footscray,3011,VIC,Hospital,-37.7928754,144.8889931
+Echuca Public Hospital,226 Service Street,Echuca,3564,VIC,Hospital,-36.1388037,144.7502622
+Williamstown Public Hospital,76A Railway Crescent,Williamstown,3016,VIC,Hospital,-37.8640961,144.8937851
+Edenhope Public Hospital,124-134 Elizabeth Street,Edenhope,3318,VIC,Hospital,-37.0356235,141.288851
+Dimboola Public Hospital,32-36 Anderson Street,Dimboola,3414,VIC,Hospital,-36.4492095,142.0249989
+Frankston Public Hospital,2 Hastings Road,Frankston,3199,VIC,Hospital,-38.1499344,145.1293014
+Horsham Public Hospital,83 Baillie Street,Horsham,3400,VIC,Hospital,-36.7125522,142.2088102
+Korumburra Public Hospital,10 Gordon Street,Korumburra,3950,VIC,Hospital,-38.4305615,145.8267077
+Wodonga Public Hospital,69 Vermont Street,Wodonga,3690,VIC,Hospital,-36.1319778,146.8798249
+Leongatha Public Hospital,64 Koonwarra Road,Leongatha,3953,VIC,Hospital,-38.4875708,145.9514068
+Yarram Public Hospital,85-91 Commercial Road,Yarram,3971,VIC,Hospital,-38.5570272,146.6782178
+Goulburn Valley Health,2-48 Graham Street,Shepparton,3630,VIC,Hospital,-36.3626385,145.4046543
+Yarrawonga Public Hospital,33 Piper Street,Yarrawonga,3730,VIC,Hospital,-36.0110565,146.0072812
+Tatura Public Hospital,64-68 Park Street,Tatura,3616,VIC,Hospital,-36.4391442,145.2258242
+Yea Public Hospital,45 Station Street,Yea,3717,VIC,Hospital,-37.2139576,145.4309531
+Rushworth Public Hospital,14 Coyle Street,Rushworth,3612,VIC,Hospital,-36.5876888,145.007886
+Alexandra Public Hospital,12 Cooper Street,Alexandra,3714,VIC,Hospital,-37.194179,145.7165624
+Lilydale Public Hospital,25 Market Street,Lilydale,3140,VIC,Hospital,-37.7566752,145.3513395
+Bright Public Hospital,36-42 Cobden Street,Bright,3741,VIC,Hospital,-36.7330938,146.9662992
+Mount Eliza Rehab - Frankston,125 Golf Links Road,Frankston,3199,VIC,Hospital,-38.1743498,145.1499876
+Mount Beauty Public Hospital,2-8 Hollonds Street,Mount Beauty,3699,VIC,Hospital,-36.743151,147.1692878
+Mount Eliza Rehab - Mornington,24 Separation Street,Mornington,3931,VIC,Hospital,-38.2314585,145.0418802
+Myrtleford Public Hospital,32 Odonnell Avenue,Myrtleford,3737,VIC,Hospital,-36.554544,146.7275267
+Sunbury Public Hospital,7 Macedon Street,Sunbury,3429,VIC,Hospital,-37.576891,144.732163
+Angliss Public Hospital,39 Albert Street,Upper Ferntree Gully,3156,VIC,Hospital,-37.898811,145.3135718
+Austin Public Hospital,145 Studley Road,Heidelberg,3084,VIC,Hospital,-37.7566762,145.0592495
+Sea Lake And District Hospital,33-43 Mcclelland Avenue,Sea Lake,3533,VIC,Hospital,-35.5008826,142.8577157
+Heidelberg Repat Hospital,300 Waterdale Road,Heidelberg Heights,3081,VIC,Hospital,-37.755479,145.0454878
+Orygen Youth Health,10 Mavis Street,Footscray,3011,VIC,Hospital,-37.7912972,144.8872551
+Sandringham Womens,193 Bluff Road,Sandringham,3191,VIC,Hospital,-37.960472,145.019078
+Bairnsdale Public Hospital,122 Day Street,Bairnsdale,3875,VIC,Hospital,-37.8312441,147.6087414
+Ursula Frayne Centre,160 Gordon Street,Footscray,3011,VIC,Hospital,-37.7928754,144.8889931
+Ballarat Base Public Hospital,1 Drummond Street,Ballarat Central,3350,VIC,Hospital,-37.5615104,143.847624
+Diaverum - North Melbourne,185 Boundary Road,North Melbourne,3051,VIC,Hospital,-37.7886527,144.9399132
+Queen Elizabeth - Ballarat,102 Ascot Street,Ballarat Central,3350,VIC,Hospital,-37.5636307,143.8436027
+Windsor Private Hospital,20-22 The Avenue  ,Windsor,3181,VIC,Hospital,-37.856085,144.998063
+Geelong University Public Hospital,272-322 Ryrie Street,Geelong,3220,VIC,Hospital,-38.1519351,144.3655057
+Grace Mckellar Centre,45-99 Ballarat Road,North Geelong,3215,VIC,Hospital,-38.1202294,144.3341543
+Beleura Private Hospital,925 Nepean Highway,Mornington,3931,VIC,Hospital,-38.2255592,145.0497781
+Wonthaggi Public Hospital,235 Graham Street,Wonthaggi,3995,VIC,Hospital,-38.6072833,145.5811531
+Bellbird Private Hospital,198 Canterbury Road,Blackburn South,3130,VIC,Hospital,-37.8332356,145.1561193
+Beaufort Public Hospital,24-28 Havelock Street,Beaufort,3373,VIC,Hospital,-37.4308576,143.3824534
+Brunswick Private Hospital,82 Moreland Road,Brunswick,3056,VIC,Hospital,-37.756482,144.9717073
+Skipton Public Hospital,2 Blake Street,Skipton,3361,VIC,Hospital,-37.6848825,143.3674292
+Epworth Hospital - Cliveden,29 Simpson Street,East Melbourne,3002,VIC,Hospital,-37.8157049,144.9875399
+Como Private Hospital,152 Como Parade,Parkdale,3195,VIC,Hospital,-37.9908767,145.0725136
+Beechworth Public Hospital,52 Sydney Road,Beechworth,3747,VIC,Hospital,-36.3501626,146.6904274
+Cotham Private Hospital,209 Cotham Road,Kew,3101,VIC,Hospital,-37.8085698,145.0481513
+Benalla Public Hospital,47-63 Coster Street,Benalla,3672,VIC,Hospital,-36.5551267,145.9932836
+Delmont Private Hospital,298 Warrigal Road,Glen Iris,3146,VIC,Hospital,-37.8566879,145.0943005
+Bendigo Public Hospital,100-102 Barnard Street,Bendigo,3550,VIC,Hospital,-36.7496258,144.2797281
+Donvale Rehab Hospital,1119-1121 Doncaster Road,Doncaster East,3109,VIC,Hospital,-37.789994,145.1714915
+Bendigo Base Public Hospital,62 Lucan Street,Bendigo,3550,VIC,Hospital,-36.7482276,144.2856156
+Dorset Rehab Centre,146 Derby Street,Pascoe Vale,3044,VIC,Hospital,-37.7232247,144.9473978
+Boort Public Hospital,31 Kiniry Street,Boort,3537,VIC,Hospital,-36.1118062,143.7278359
+Epworth Hospital - Freemasons,166 Clarendon Street,East Melbourne,3002,VIC,Hospital,-37.8106945,144.9841078
+Box Hill Public Hospital,8 Arnold Street,Box Hill,3128,VIC,Hospital,-37.814001,145.1161601
+Epworth Hospital - Richmond,89 Bridge Road,Richmond,3121,VIC,Hospital,-37.8177262,144.9930475
+Broadmeadows Health Service,35-57 Johnstone Street,Jacana,3047,VIC,Hospital,-37.6839819,144.9134181
+Epworth Rehab - Brighton,85-91 Wilson Street,Brighton,3186,VIC,Hospital,-37.91352,145.0027526
+Bundoora Extended Care,1231 Plenty Road,Bundoora,3083,VIC,Hospital,-37.7009694,145.0576404
+Epworth Rehab - Camberwell,888 Toorak Road,Camberwell,3124,VIC,Hospital,-37.8462871,145.0547004
+Calvary Public Hospital,476-482 Kooyong Road,Caulfield South,3162,VIC,Hospital,-37.897105,145.013082
+Frances Perry House,20 Flemington Road,Parkville,3052,VIC,Hospital,-37.7989513,144.9547606
+Caritas Christi Hospice,104 Studley Park Road,Kew,3101,VIC,Hospital,-37.8044958,145.0156356
+Geelong Private Hospital,56-58 Bellerine Street,Geelong,3220,VIC,Hospital,-38.1510353,144.364398
+Casey Public Hospital,62-70 Kangan Drive,Berwick,3806,VIC,Hospital,-38.0452553,145.345815
+Casterton Public Hospital,63 Russell Street,Casterton,3311,VIC,Hospital,-37.5903831,141.3933305
+Glenferrie Private Hospital,29 Hilda Crescent,Hawthorn,3122,VIC,Hospital,-37.819345,145.030915
+Healesville Public Hospital,377 Maroondah Highway,Healesville,3777,VIC,Hospital,-37.6475221,145.5287532
+Jessie Mcpherson Hospital,246 Clayton Road,Clayton,3168,VIC,Hospital,-37.920377,145.1239691
+John Fawkner Private Hospital,275 Moreland Road,Coburg,3058,VIC,Hospital,-37.7543904,144.9584733
+Creswick Public Hospital,1 Napier Street,Creswick,3363,VIC,Hospital,-37.4206368,143.8916749
+Knox Private Hospital,262 Mountain Highway,Wantirna,3152,VIC,Hospital,-37.8492244,145.2268514
+Daylesford Public Hospital,15 Hospital Street,Daylesford,3460,VIC,Hospital,-37.3374961,144.1452511
+Linacre Private Hospital,12 Linacre Road,Hampton,3188,VIC,Hospital,-37.9424288,145.003715
+Winchelsea Public Hospital,8 Gosney Street,Winchelsea,3241,VIC,Hospital,-38.2434355,143.9849939
+Linley Clinic,25 Bryson Street,Canterbury,3126,VIC,Hospital,-37.827446,145.081123
+Heywood Public Hospital,21 Barclay Street,Heywood,3304,VIC,Hospital,-38.136412,141.6248826
+Malvern Private Hospital,3-9 Wilton Vale Crescent,Malvern East,3145,VIC,Hospital,-37.8671036,145.060793
+Inglewood Public Hospital,5 Hospital Street,Inglewood,3517,VIC,Hospital,-36.5727177,143.8734043
+Kerang Public Hospital,13-15 Burgoyne Street,Kerang,3579,VIC,Hospital,-35.7243885,143.9168119
+Maryvale Private Hospital,286 Maryvale Road,Morwell,3840,VIC,Hospital,-38.2181901,146.4168434
+Kilmore Public Hospital,1 Anderson Road,Kilmore,3764,VIC,Hospital,-37.3011996,144.9573806
+Masada Private Hospital,26 Balaclava Road,St Kilda East,3183,VIC,Hospital,-37.8694702,145.0031644
+Mildura Private Hospital,220-228 Thirteenth Street,Mildura,3500,VIC,Hospital,-34.1848308,142.1456187
+Kingston Centre Hospital,400 Warrigal Road,Heatherton,3202,VIC,Hospital,-37.9546346,145.0766042
+Mitcham Private Hospital,27 Doncaster East Road,Mitcham,3132,VIC,Hospital,-37.8104763,145.1950176
+Koo Wee Rup Public Hospital,215 Rossiter Road,Koo Wee Rup,3981,VIC,Hospital,-38.2016546,145.4843683
+Monash Surgical Hospital,252-256 Clayton Road,Clayton,3168,VIC,Hospital,-37.9217704,145.1205731
+Kyabram Public Hospital,86-96 Fenaughty Street,Kyabram,3620,VIC,Hospital,-36.3147857,145.0423815
+Kyneton Public Hospital,7-25 Caroline Chisholm Drive,Kyneton,3444,VIC,Hospital,-37.2542686,144.4699734
+Murray Valley Private Hospital,2/69 Nordsvan Drive,Wodonga,3690,VIC,Hospital,-36.1380159,146.8765519
+Latrobe Regional Hospital,10 Village Avenue,Traralgon,3844,VIC,Hospital,-38.2199673,146.4707708
+North Eastern Rehab Centre,134-144 Ford Street,Ivanhoe,3079,VIC,Hospital,-37.7634242,145.0313442
+Lorne Public Hospital,1 Albert Street,Lorne,3232,VIC,Hospital,-38.5462822,143.9792496
+Northpark Private Hospital,10 Greenhills Road,Bundoora,3083,VIC,Hospital,-37.6916285,145.0617806
+Maldon Public Hospital,1 Chapel Street,Maldon,3463,VIC,Hospital,-36.9932357,144.0642221
+Peninsula Private Hospital,525 Mcclelland Drive,Langwarrin,3910,VIC,Hospital,-38.1576238,145.1703557
+Ouyen Public Hospital,28 Britt Street,Ouyen,3490,VIC,Hospital,-35.073711,142.313291
+Ringwood Private Hospital,36 Mt Dandenong Road,Ringwood East,3135,VIC,Hospital,-37.8113963,145.2439024
+Manangatang Public Hospital,37-39 Pioneer Street,Manangatang,3546,VIC,Hospital,-35.0510631,142.8810883
+Shepparton Private Hospital,20 Fitzgerald Street,Shepparton,3630,VIC,Hospital,-36.3598579,145.4114962
+Mansfield Public Hospital,51-53 Highett Street,Mansfield,3722,VIC,Hospital,-37.0576048,146.0865084
+Sir John Monash Hospital,212-220 Clayton Road,Clayton,3168,VIC,Hospital,-37.918676,145.1214864
+Maroondah Public Hospital,1-15 Davey Drive,Ringwood East,3135,VIC,Hospital,-37.8070008,145.2555559
+South Eastern Private Hospital,313-329 Princes Highway,Noble Park,3174,VIC,Hospital,-37.9659683,145.1926171
+St John Of God - Pinelodge,1480 Heatherton Road,Dandenong,3175,VIC,Hospital,-37.9705843,145.2134965
+Dunolly Public Hospital,20 Havelock Street,Dunolly,3472,VIC,Hospital,-36.855664,143.734162
+Mercy Private Hospital - East Mlb,159 Grey Street,East Melbourne,3002,VIC,Hospital,-37.8119289,144.9844614
+Maryborough Public Hospital,75 Clarendon Street,Maryborough,3465,VIC,Hospital,-37.0451603,143.7384714
+St Vincents Private Hospital - Fitzroy,59-61 Victoria Parade,Fitzroy,3065,VIC,Hospital,-37.807674,144.9760129
+Heathcote Public Hospital,39-55 Hospital Street,Heathcote,3523,VIC,Hospital,-36.9256041,144.7097048
+Albert Road Clinic,31 Albert Road,Melbourne,3004,VIC,Hospital,-37.834298,144.972136
+Melton West Public Hospital,195-209 Barries Road,Melton West,3337,VIC,Hospital,-37.6864491,144.5582841
+The Bays Private Hospital,262 Main Street,Mornington,3931,VIC,Hospital,-38.2237469,145.0414
+Mercy Womens Hospital,163 Studley Road,Heidelberg,3084,VIC,Hospital,-37.7563314,145.0614863
+Geelong Clinic,94-102 Townsend Road,St Albans Park,3219,VIC,Hospital,-38.1817896,144.3934494
+Mildura Base Public Hospital,216-240 Ontario Avenue,Mildura,3500,VIC,Hospital,-34.1857325,142.1423056
+The Bays Hospital Hastings,86 Victoria Street,Hastings,3915,VIC,Hospital,-38.303444,145.190309
+Monash Medical - Clayton,246 Clayton Road,Clayton,3168,VIC,Hospital,-37.920377,145.1239691
+Mitcham Private Hospital,36 Doncaster East Road,Mitcham,3132,VIC,Hospital,-37.811338,145.194203
+Monash Medical - Moorabbin,823-865 Centre Road,Bentleigh East,3165,VIC,Hospital,-37.9214925,145.0629936
+Melbourne Eastern Hospital,157 Scoresby Road,Boronia,3155,VIC,Hospital,-37.8556196,145.2689185
+Port Fairy Public Hospital,32 Villiers Street,Port Fairy,3284,VIC,Hospital,-38.3812299,142.2276967
+Valley Private Hospital,535 Police Road,Mulgrave,3170,VIC,Hospital,-37.9385903,145.2121015
+Castlemaine Public Hospital,16 Odgers Road,Castlemaine,3450,VIC,Hospital,-37.0523064,144.2113174
+Victoria Clinic,324 Malvern Road,Prahran,3181,VIC,Hospital,-37.8481453,144.9972429
+Nathalia Public Hospital,36-44 Mcdonell Street,Nathalia,3638,VIC,Hospital,-36.0572364,145.1975729
+Victorian Rehab Centre,499 Springvale Road,Glen Waverley,3150,VIC,Hospital,-37.8995317,145.1623758
+Wangaratta Base Hospital,35-47 Green Street,Wangaratta,3677,VIC,Hospital,-36.3543538,146.3142727
+Numurkah Public Hospital,2 Katamatite Road,Numurkah,3636,VIC,Hospital,-36.0993453,145.4435593
+St Vincents Private Hospital - Kew,5 Studley Avenue,Kew,3101,VIC,Hospital,-37.8058166,145.0243747
+Canterbury Public Hospital,6 Mont Albert Road,Canterbury,3126,VIC,Hospital,-37.8163096,145.0618368
+Wangaratta Private Hospital,134-150 Templeton Street,Wangaratta,3677,VIC,Hospital,-36.3493,146.312423
+Omeo Public Hospital,10 Easton Street,Omeo,3898,VIC,Hospital,-37.098108,147.5968781
+Warringal Private Hospital,216 Burgundy Street,Heidelberg,3084,VIC,Hospital,-37.7547888,145.0606856
+Orbost Public Hospital,104 Boundary Road,Orbost,3888,VIC,Hospital,-37.7017168,148.4655363
+Waverley Private Hospital,343-357 Blackburn Road,Mount Waverley,3149,VIC,Hospital,-37.8845827,145.1455403
+Apollo Bay Public Hospital,75 Mclachlan Street,Apollo Bay,3233,VIC,Hospital,-38.7538967,143.6646146
+Western Private Hospital,1-9 Marion Street,Footscray,3011,VIC,Hospital,-37.7930721,144.8857579
+Peter James Centre,321-345 Burwood Highway,Forest Hill,3131,VIC,Hospital,-37.8539914,145.1643808
+Epworth Hospital - Hawthorn,46-52 Burwood Road,Hawthorn,3122,VIC,Hospital,-37.8215444,145.0228485
+Peter Macallum Cancer Inst,305 Grattan Street,Melbourne,3000,VIC,Hospital,-37.8001627,144.9564119
+Frankston Private Hospital,24-28 Frankston-Flinders Road,Frankston,3199,VIC,Hospital,-38.1542939,145.1338101
+Portland Public Hospital,141-151 Bentinck Street,Portland,3305,VIC,Hospital,-38.3412033,141.6051897
+Cabrini Hospital - Brighton,243 New Street,Brighton,3186,VIC,Hospital,-37.9115369,144.991252
+Queen Elizabeth - Noble Park,37-53 Thomas Street,Noble Park,3174,VIC,Hospital,-37.9715401,145.177824
+Cabrini Rehab - Hopetoun,2-6 Hopetoun Street,Elsternwick,3185,VIC,Hospital,-37.8849707,145.0101373
+Robinvale Public Hospital,128-132 Latje Road,Robinvale,3549,VIC,Hospital,-34.5841133,142.7810048
+Cabrini Hospital - Malvern,183 Wattletree Road,Malvern,3144,VIC,Hospital,-37.8628366,145.0329872
+Rochester Public Hospital,1 Pascoe Street,Rochester,3561,VIC,Hospital,-36.3658135,144.6979363
+Cabrini Hospital - Prahran,646 High Street,Prahran,3181,VIC,Hospital,-37.85412,145.008873
+Rosebud Public Hospital,1527 Point Nepean Road,Rosebud West,3940,VIC,Hospital,-38.3614764,144.8843194
+Cabrini Rehab - Elsternwick,494 Glen Huntly Road,Elsternwick,3185,VIC,Hospital,-37.8855294,145.0093215
+Royal Melbourne Hospital,300 Grattan Street,Parkville,3052,VIC,Hospital,-37.7988111,144.9560835
+Epworth Hospital - Eastern,1 Arnold Street,Box Hill,3128,VIC,Hospital,-37.8148339,145.1192327
+Melbourne Extended Care,34-54 Poplar Road,Parkville,3052,VIC,Hospital,-37.7789873,144.9475955
+Essendon Private Hospital,35 Rosehill Road,Essendon West,3040,VIC,Hospital,-37.7484671,144.8853814
+Royal Talbot Rehabilitation,1 Yarra Boulevard,Kew,3101,VIC,Hospital,-37.7899184,145.0259057
+Melbourne Medibrain Centre,631 Inkerman Road,Caulfield North,3161,VIC,Hospital,-37.8691131,145.0187743
+Hopetoun Public Hospital,12 Mitchell Place,Hopetoun,3396,VIC,Hospital,-35.7322437,142.3664857
+Melbourne Private Hospital,1F Royal Parade,Parkville,3052,VIC,Hospital,-37.7983026,144.9572802
+Warracknabeal Public Hospital,18 Dimboola Road,Warracknabeal,3393,VIC,Hospital,-36.2524992,142.3819135
+St John Of God - Ballarat,101 Drummond Street,Lake Wendouree,3350,VIC,Hospital,-37.5577443,143.847746
+Sandringham Public Hospital,193 Bluff Road,Sandringham,3191,VIC,Hospital,-37.960472,145.019078
+St John Of God - Bendigo,133-145 Lily Street,Bendigo,3550,VIC,Hospital,-36.7619463,144.2637316
+Seymour Public Hospital,1 Bretonneux Street,Seymour,3660,VIC,Hospital,-37.0186725,145.1387513
+St John Of God - Berwick,3 Gibb Street,Berwick,3806,VIC,Hospital,-38.034002,145.3455266
+Foster Public Hospital,83 Station Road,Foster,3960,VIC,Hospital,-38.6588006,146.2061303
+St John Of God - Geelong,80 Myers Street,Geelong,3220,VIC,Hospital,-38.1515831,144.3578244
+Camperdown Public Hospital,9 Robinson Street,Camperdown,3260,VIC,Hospital,-38.236754,143.1378169
+St John Of God - Warrnambool,136 Botanic Road,Warrnambool,3280,VIC,Hospital,-38.3720974,142.4790599
+Warrnambool Public Hospital,25 Ryot Street,Warrnambool,3280,VIC,Hospital,-38.3803246,142.4736096
+St John Of God - Rehab,255-265 Cranbourne Road,Frankston,3199,VIC,Hospital,-38.152633,145.155344
+St Georges Health Service,283 Cotham Road,Kew,3101,VIC,Hospital,-37.8094858,145.0533397
+The Avenue Private Hospital,40 The Avenue ,Windsor,3181,VIC,Hospital,-37.85407,144.9982068
+St Vincents Public Hospital,41 Victoria Parade,Fitzroy,3065,VIC,Hospital,-37.8075459,144.975049
+Melbourne Clinic,130 Church Street,Richmond,3121,VIC,Hospital,-37.814762,144.99965
+Stawell Public Hospital,27-29 Sloane Street,Stawell,3380,VIC,Hospital,-37.0588492,142.7809009
+Wyndham Clinic,242A Hoppers Lane,Werribee,3030,VIC,Hospital,-37.8870021,144.7011907
+Western Hospital - Sunshine,176-190 Furlong Road,St Albans,3021,VIC,Hospital,-37.7606234,144.8156242
+La Trobe Private Hospital,920 Plenty Road,Bundoora,3083,VIC,Hospital,-37.7164797,145.0442966
+Swan Hill Public Hospital,50-54 Splatt Street,Swan Hill,3585,VIC,Hospital,-35.3405315,143.5567481
+Epworth Hospital - Geelong,1 Epworth Place,Waurn Ponds,3216,VIC,Hospital,-38.1942255,144.3049395
+Nyah West Public Hospital,5 Monash Avenue,Nyah West,3595,VIC,Hospital,-35.1856083,143.3556789
+Monash House Private Hospital,271 Clayton Road,Clayton,3168,VIC,Hospital,-37.9208469,145.1201252
+Tallangatta Public Hospital,25 Barree Street,Tallangatta,3700,VIC,Hospital,-36.2137692,147.1832792

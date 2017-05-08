@@ -1,0 +1,16 @@
+{%  extends "base.html" %}
+
+
+
+
+{%  block content %}
+<div class='col-sm-6 col-sm-offset-3'>
+<h1>{{ title }}</h1>
+    <hr/>
+<form method='POST' action='.'>{% csrf_token %}
+  {{ form.as_p }}
+  <input type="Submit" class='btn btn-default' value='{{ title }}' />
+    </form>
+</div>
+
+{%  endblock content %}

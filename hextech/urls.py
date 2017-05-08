@@ -26,7 +26,6 @@ urlpatterns = [
     url(r'^posts/', include("posts.urls", namespace='posts')),
     url(r'^safeplace/', include("api.urls", namespace='safeplace-api')),
     url(r'^api/posts/', include("posts.api.urls", namespace='posts-api')),
-    url(r'^api/users/', include("users.urls", namespace='users-api')),
     url(r'^trailtrack/', include("trailtrack.urls", namespace='trails-api')),
 ]
 urlpatterns = format_suffix_patterns(urlpatterns)

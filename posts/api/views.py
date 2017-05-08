@@ -53,7 +53,7 @@ class IncidentCreateAPIView(CreateAPIView) :
         serializer.save(user=self.request.user)
 
 
-class IncidentCreateAPIViewNoUser(mixins.ListModelMixin, mixins.CreateModelMixin, generics.GenericAPIView,) :
+class IncidentCreateAPIViewNoUser(mixins.ListModelMixin, mixins.CreateModelMixin, generics.GenericAPIView,) : #include all functions (Update, create function in one class)
     serializer_class = IncidentCreateUpdateSerializer
     def get(self, request): #Get Paramter from URL.
         deviceid = self.request.query_params.get('deviceid', None)
@@ -73,7 +73,7 @@ class IncidentDetailAPIView(RetrieveAPIView) :
     lookup_field = 'id'
 
 
-class IncidentUpdate(mixins.ListModelMixin, mixins.CreateModelMixin, generics.GenericAPIView,):
+class IncidentUpdate(mixins.ListModelMixin, mixins.CreateModelMixin, generics.GenericAPIView,): #include all functions (Update, create function in one class)
     serializer_class = IncidentCreateUpdateSerializer
     def get(self, request): #Get Paramter from url.
         deviceid = self.request.query_params.get('deviceid', None)
@@ -108,16 +108,16 @@ class IncidentListAPIView(ListAPIView):
                 crimes.append(word)
             queryset = Incident.objects.filter(crime__in = crimes).order_by('pk') #Filter by crime
             serializer_class = IncidentListSerializer(queryset, many=True)
-            serialized_data =  ({'results': serializer_class.data,'status' : status.HTTP_200_OK, 'Message' : 'Filtered by crime = ' + ', '.join(crimes)})
+            serialized_data =  ({'results': serializer_class.data,'status' : status.HTTP_200_OK, 'Message' : 'Filtered by crime = ' + ', '.join(crimes)}) #setting structure for API
 
         elif crime is None and deviceid is not None:
             queryset = Incident.objects.filter(deviceid__contains = deviceid).order_by('pk') #Filter by deviceid
             serializer_class = IncidentListSerializer(queryset, many=True)
-            serialized_data =  ({'results': serializer_class.data,'status' : status.HTTP_200_OK, 'Message' : 'Filtered by id = ' + deviceid })
+            serialized_data =  ({'results': serializer_class.data,'status' : status.HTTP_200_OK, 'Message' : 'Filtered by id = ' + deviceid })  #setting structure for API
         else:
             queryset = Incident.objects.all().order_by('pk') #Filter by incident
             serializer_class = IncidentListSerializer(queryset, many=True)
-            serialized_data =  ({'results': serializer_class.data,'status' : status.HTTP_200_OK, 'Message' : 'Allcrime'})
+            serialized_data =  ({'results': serializer_class.data,'status' : status.HTTP_200_OK, 'Message' : 'Allcrime'})  #setting structure for API
 
         return  Response(serialized_data)
 

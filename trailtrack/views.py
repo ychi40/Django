@@ -49,15 +49,17 @@ class TrailtrackCreateSerializer(mixins.ListModelMixin, mixins.CreateModelMixin,
 
         ### Calculate Wait Time ###
 
-        seconds = (int(period) * 60) + 60
+        seconds = (int(period) * 60) + 60 #converting to mins and adding 1min of respond time.
 
         #### Checking function by running threading after saving the creation ###
 
         track = trailtrack.objects.create(deviceid = deviceid, name = name,  user_phone_number = user_phone_number, contact1=contact1, contact2=contact2, contact3=contact3, status=status, period=period, geocode=listx)
-        currentId = track.id
+        #create objects for attributes
+        currentId = track.id #saving the current id to use in threading
         track.save()
 
-        t = threading.Timer(seconds, sendmessage, args =(currentId, )) #Test threading timer.
+        t = threading.Timer(seconds, sendmessage, args =(currentId, )) #Function threading with a timer = sec
+        #function send message is at the bottom of the page.
         t.start()
         return Response('Okay')
 
@@ -72,27 +74,26 @@ class TrailtrackUpdateSerializer(mixins.ListModelMixin, mixins.CreateModelMixin,
         """ THIS FUNCTUON NEEDS FIXING """
 
         for e in trailtrack.objects.filter(deviceid = deviceid):
-            list_1 = e.geocode
+            list_1 = e.geocode  #searching for geo
         for e in trailtrack.objects.filter(deviceid = deviceid):
-            period = e.period
+            period = e.period   #searching for period
 
         """ THIS FUNCTUON NEEDS FIXING """
 
-        list_1.append((lat, lng))
+        list_1.append((lat, lng)) #append tuple of lag and lng within a list
         value = list_1
         # Time Management Schedule
-        seconds = (int(period) * 60) + 60  #convert sec to min
-        # Get Current Time
-        currentTime = datetime.datetime.now() #set countdown
+        currentTime = datetime.datetime.now()
+        seconds = (int(period) * 60) + 60  #convert sec to min plus the 1min response time
         if lat is not None and lng is not None:
-            trailtrack.objects.filter(deviceid = deviceid).update(status=status, geocode=value, updated=currentTime)
+            trailtrack.objects.filter(deviceid = deviceid).update(status=status, geocode=value, updated=currentTime) #creating objects
         else:
-            trailtrack.objects.filter(deviceid = deviceid).update(status=status)
+            trailtrack.objects.filter(deviceid = deviceid).update(status=status) #creating objects
 
         ### Main if else
-        if status == "reached":
+        if status == "reached":  #if status reach, stop the function
             print("You are safe")
-        elif status == "safe":
+        elif status == "safe": #if the status is safe, re run the threading fucntion
             currentUpdate = trailtrack.objects.get(deviceid=deviceid).updated
             g = threading.Timer(seconds, check_update_time, args=(deviceid,  currentUpdate,)) #Compensation 5 seconds
             g.start()
@@ -101,39 +102,19 @@ class TrailtrackUpdateSerializer(mixins.ListModelMixin, mixins.CreateModelMixin,
         except(ConnectionResetError, TypeError, AttributeError):
             pass
 
-"""
 
-The function below represent the threading function, please use carefully
-
-"""
-### Get Status Status = Unused
-def getstatus(deviceid, currentStatus):
-    g = trailtrack.objects.get(deviceid=deviceid).geocode
-    status = trailtrack.objects.get(deviceid=deviceid).status
-    if status == currentStatus:
-        print(currentStatus)
-        print(status)
-        print ("I am working!!!!!")
-
-    elif status != currentStatus:
-        print(currentStatus)
-        print(status)
-        print ("I am not firing yet")
-    elif status == "reached" or currentStatus == "reached": #If the status is reached, stop timer and end process.
-        pass
-
-def check_update_time(deviceid, currentUpdateTime):
-    g = trailtrack.objects.get(deviceid=deviceid).geocode
-    g_list = g[len(g)-1]
-    lat = g_list[0]
-    lng = g_list[1]
-    c1 = trailtrack.objects.get(deviceid=deviceid).contact1
-    c2 = trailtrack.objects.get(deviceid=deviceid).contact2
-    c3 = trailtrack.objects.get(deviceid=deviceid).contact3
+def check_update_time(deviceid, currentUpdateTime): #check for the updatetime
+    g = trailtrack.objects.get(deviceid=deviceid).geocode #get into parameters, deviceid and geocode of last location
+    g_list = g[len(g)-1] #making the index -1 to get the current index
+    lat = g_list[0] #getting lat
+    lng = g_list[1]  #getting lng
+    c1 = trailtrack.objects.get(deviceid=deviceid).contact1 #getting emergency contact1
+    c2 = trailtrack.objects.get(deviceid=deviceid).contact2 #getting emergency contact2
+    c3 = trailtrack.objects.get(deviceid=deviceid).contact3 #getting emergency contact3
     name= trailtrack.objects.get(deviceid=deviceid).name
-    user_phone = trailtrack.objects.get(deviceid=deviceid).user_phone_number
+    user_phone = trailtrack.objects.get(deviceid=deviceid).user_phone_number #get use phone number
     present_update_time = trailtrack.objects.get(deviceid=deviceid).updated
-    if present_update_time == currentUpdateTime:
+    if present_update_time == currentUpdateTime: #if the current time is the same, fire update
         trailtrack.objects.filter(deviceid = deviceid).update(status='Danger') #When the message is send, the status to become danger.
         client.messages.create(to='+'+c1,from_="+61451562589",body="Alert message from " + name + "(" + user_phone + ")." +" I might not be safe. Click the attachment below for my last location.  http://www.google.com/maps/place/" + lat + ',' + lng + "/" )
         client.messages.create(to='+'+c2,from_="+61451562589",body="Alert message from " + name + "(" + user_phone + ")." +" I might not be safe. Click the attachment below for my last location.  http://www.google.com/maps/place/" + lat + ',' + lng + "/" )
@@ -144,16 +125,16 @@ def check_update_time(deviceid, currentUpdateTime):
 def sendmessage (idx):
     #time.sleep(60.0)
     #trailtrack.objects.filter(idx = idx).update(status='Danger')
-    g = trailtrack.objects.get(id=idx).geocode
-    g_list = g[len(g)-1]
-    lat = g_list[0]
-    lng = g_list[1]
+    g = trailtrack.objects.get(id=idx).geocode  #get into parameters, deviceid and geocode of last location
+    g_list = g[len(g)-1] #making the index -1 to get the current index
+    lat = g_list[0] #getting lat
+    lng = g_list[1] #getting lng
     name= trailtrack.objects.get(id=idx).name
     user_phone = trailtrack.objects.get(id=idx).user_phone_number
     stu = trailtrack.objects.get(id=idx).status
-    c1 = trailtrack.objects.get(id=idx).contact1
-    c2 = trailtrack.objects.get(id=idx).contact2
-    c3 = trailtrack.objects.get(id=idx).contact3
+    c1 = trailtrack.objects.get(id=idx).contact1 #getting emergency contact1
+    c2 = trailtrack.objects.get(id=idx).contact2 #getting emergency contact2
+    c3 = trailtrack.objects.get(id=idx).contact3 #getting emergency contact3
     if stu == "start": #If the timer stops and status is start.
         trailtrack.objects.filter(id = idx).update(status='Danger')
         client.messages.create(to='+'+c1,from_="+61451562589",body="Alert message from " + name + "(" + user_phone + ")." + " I might not be safe. Click the attachment below for my last location.  http://www.google.com/maps/place/" + lat + ',' + lng + "/" )

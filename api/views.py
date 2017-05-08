@@ -93,59 +93,59 @@ class SafeplaceDetailAPIView(ListAPIView):
         lat = float(self.request.query_params.get('lat', None)) #get lat from url
         lng = float(self.request.query_params.get('lng', None)) #get long from url
 
-        if lat is not None and lng is not None:
-            obj = []
-            obj_5 = []
-            dict_dis = {}
-            dict_dis5 = {}
-            sort_object = []
-            sort_object5 = []
-            latList = []
-            lngList = []
+        if lat is not None and lng is not None: #check if there is lat and lng
+            obj = [] #for 2km
+            obj_5 = [] #for 5km
+            dict_dis = {} #dictionary include distance for 2km
+            dict_dis5 = {}  #dictionary include distance for 5km
+            sort_object = [] #extract index from dictionary for 2km
+            sort_object5 = [] #extract index from dictionary for 5km
+            latList = [] #contain lat
+            lngList = [] #contain lng
 
-            data = Safeplace.objects.order_by('pk')
+            data = Safeplace.objects.order_by('pk') #order the data by ID asc
             for x in data:
-                latList.append(x.latitude) #run all lat,lng from model and append to list
+                latList.append(x.latitude) #append lat and lng to the list
                 lngList.append(x.longitude)
             for x in range(0, len(data)):
-                latx = float(latList[x]) #calcaution every lat and log in DB and find the distance between url and database
-                lngx = float(lngList[x])
-                km = distance(lat, lng, latx, lngx)
+                latx = float(latList[x]) #make lat into float
+                lngx = float(lngList[x]) #make lng into float
+                km = distance(lat, lng, latx, lngx) #include maths function
                 #Change distances
-                if km <= 1:
+                if km <= 1:           #compensating distance
                     obj.append(x+1)
                     dict_dis[x+1] = km
-                elif km < 5:
+                elif km < 5:         #if the km is less than 5km, show everything
                     obj_5.append(x+1)
                     dict_dis5[x+1] = km
                 # elif km > 1:
                 #     obj_false.append(km) #if fail, append safeplaces outside 2km
                 #     pk_false.append(x+1)
             if len(obj) != 0:
-                msg = '2 KM'
+                msg = '2 KM' #show message if is 2km
                 #sort = sorted(sorted(dict_dis.items()),reverse=True)
-                sort = [(k, dict_dis[k]) for k in sorted(dict_dis, key=dict_dis.get, reverse=True)]
+                sort = [(k, dict_dis[k]) for k in sorted(dict_dis, key=dict_dis.get, reverse=True)] #sort the distance from the highest to the lowest distance
                 for x in range(0,len(sort)):
-                    sortout = sort[x][x-x]
-                    sort_object.append(sortout)
-                clauses = ' '.join(['WHEN id=%s THEN %s' % (pk, i) for i, pk in enumerate(sort_object)])
-                ordering = 'CASE %s END' % clauses
-                queryset = Safeplace.objects.filter(pk__in=sort_object).extra(select={'ordering': ordering}, order_by=('ordering',)) #Ordering the distance from longest to shortest.
+                    sortout = sort[x][x-x]   #extracting the dictionary
+                    sort_object.append(sortout) #append
+                clauses = ' '.join(['WHEN id=%s THEN %s' % (pk, i) for i, pk in enumerate(sort_object)])  #search for the id in order and lock the position
+                ordering = 'CASE %s END' % clauses  #lock position for the function call extra
+                queryset = Safeplace.objects.filter(pk__in=sort_object).extra(select={'ordering': ordering}, order_by=('ordering',)) #Searching queryset by the id listed. Apply the locking condition so that the id would not be arrange from highest to lowest
                 serializer_class = SafeplaceDetailSerializer(queryset, many=True)
-                serialized_data =  ({'results': serializer_class.data,'status' : status.HTTP_200_OK, 'message' : msg})
+                serialized_data =  ({'results': serializer_class.data,'status' : status.HTTP_200_OK, 'message' : msg}) #setting the json format.
             elif len(obj) == 0 and len(obj_5) != 0: #if length is less than 5km
                 msg = '5 KM'
-                sort5 = [(k, dict_dis5[k]) for k in sorted(dict_dis5, key=dict_dis5.get, reverse=True)]
+                sort5 = [(k, dict_dis5[k]) for k in sorted(dict_dis5, key=dict_dis5.get, reverse=True)] #sort the distance from the highest to the lowest distance
                 for x in range(0,len(sort5)):
-                    sortout = sort5[x][x-x]
-                    sort_object5.append(sortout)
-                clauses5 = ' '.join(['WHEN id=%s THEN %s' % (pk, i) for i, pk in enumerate(sort_object5)])
+                    sortout = sort5[x][x-x]  #extracting the dictionary
+                    sort_object5.append(sortout)  #append
+                clauses5 = ' '.join(['WHEN id=%s THEN %s' % (pk, i) for i, pk in enumerate(sort_object5)])  #search for the id in order and lock the position
                 ordering5 = 'CASE %s END' % clauses5
-                queryset = Safeplace.objects.filter(pk__in=sort_object5).extra(select={'ordering': ordering5}, order_by=('ordering',))
+                queryset = Safeplace.objects.filter(pk__in=sort_object5).extra(select={'ordering': ordering5}, order_by=('ordering',)) #Searching queryset by the id listed. Apply the locking condition so that the id would not be arrange
                 serializer_class = SafeplaceDetailSerializer(queryset, many=True)
-                serialized_data = ({'results': serializer_class.data, 'status': status.HTTP_200_OK, 'message': msg})
+                serialized_data = ({'results': serializer_class.data, 'status': status.HTTP_200_OK, 'message': msg}) #setting the json format.
             elif len(obj) == 0 and len(obj_5) == 0:
-                msg = 'Nothing found'
+                msg = 'Nothing found'  #if there is no result in the query
                 queryset = Safeplace.objects.filter(pk__in=obj_5)
                 serializer_class = SafeplaceDetailSerializer(queryset, many=True)
                 serialized_data = (
